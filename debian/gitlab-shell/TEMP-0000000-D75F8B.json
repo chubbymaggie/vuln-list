@@ -3,7 +3,7 @@
     "bullseye": {
       "fixed_version": "0",
       "repositories": {
-        "bullseye": "13.3.0+debian-2"
+        "bullseye": "13.11.0-1"
       },
       "status": "resolved",
       "urgency": "unimportant"
@@ -19,7 +19,7 @@
     "sid": {
       "fixed_version": "0",
       "repositories": {
-        "sid": "13.3.0+debian-2"
+        "sid": "13.11.0-1"
       },
       "status": "resolved",
       "urgency": "unimportant"

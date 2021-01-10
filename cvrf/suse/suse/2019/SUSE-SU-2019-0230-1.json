@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2019:0230-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2019-02-05T09:12:39Z",
-    "CurrentReleaseDate": "2019-02-05T09:12:39Z",
+    "InitialReleaseDate": "2019-02-05T09:12:38Z",
+    "CurrentReleaseDate": "2019-02-05T09:12:38Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2019-02-05T09:12:39Z",
+        "Date": "2019-02-05T09:12:38Z",
         "Description": "current"
       }
     ]
@@ -59,33 +59,33 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libspice-server1-0.12.7-10.6.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "spice-0.12.7-10.6.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libspice-server1-0.12.7-10.6.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "spice-0.12.7-10.6.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libspice-server1-0.12.7-10.6.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "spice-0.12.7-10.6.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libspice-server1-0.12.7-10.6.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "spice-0.12.7-10.6.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {

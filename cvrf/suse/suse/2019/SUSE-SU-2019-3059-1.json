@@ -75,12 +75,12 @@
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v4.5/cilium-operator:1.7.5",
+        "RelatesToProductReference": "Container caasp/v4.5/cilium-operator:1.7.6",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v4.5/cilium:1.7.5",
+        "RelatesToProductReference": "Container caasp/v4.5/cilium:1.7.6",
         "RelationType": "Default Component Of"
       },
       {
@@ -375,201 +375,6 @@
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/389-ds:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/busybox:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/caasp-dex:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/cert-manager-cainjector:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/cert-manager-controller:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/cert-manager-webhook:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/cilium-etcd-operator:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/cilium-operator:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/cilium:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/configmap-reload:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/coredns:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/curl:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/default-http-backend:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/etcd:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/gangway:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/grafana:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/helm-tiller:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/k8s-sidecar:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/kube-apiserver:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/kube-controller-manager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/kube-proxy:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/kube-scheduler:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/kube-state-metrics:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/kubernetes-client:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/kucero:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/kured:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/metrics-server:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-alertmanager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-node-exporter:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-pushgateway:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-server:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/reloader:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/rsyslog:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/skuba-tooling:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/velero-plugin-for-aws:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/velero-plugin-for-gcp:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/velero-plugin-for-microsoft-azure:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/velero-restic-restore-helper:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Container caasp/v5/velero:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "cpio-2.12-3.3.1",
         "RelatesToProductReference": "Container ingress-nginx-controller:0.15.0",
         "RelationType": "Default Component Of"
       },
@@ -586,6 +391,11 @@
       {
         "ProductReference": "cpio-2.12-3.3.1",
         "RelatesToProductReference": "Container suse/sle15:15.2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Container suse/sle15:15.3",
         "RelationType": "Default Component Of"
       },
       {
@@ -645,167 +455,382 @@
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-389-ds-image",
+        "RelatesToProductReference": "Image caasp4/caasp-389-ds-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-busybox-image",
+        "RelatesToProductReference": "Image caasp4/caasp-busybox-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-caasp-dex-image",
+        "RelatesToProductReference": "Image caasp4/caasp-caasp-dex-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-cert-exporter-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cert-exporter-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-cilium-etcd-operator-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-etcd-operator-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-cilium-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-cilium-init-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-init-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-cilium-operator-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-operator-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-cloud-provider-openstack-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cloud-provider-openstack-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-configmap-reload-image",
+        "RelatesToProductReference": "Image caasp4/caasp-configmap-reload-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-coredns-image",
+        "RelatesToProductReference": "Image caasp4/caasp-coredns-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-curl-image",
+        "RelatesToProductReference": "Image caasp4/caasp-curl-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-etcd-image",
+        "RelatesToProductReference": "Image caasp4/caasp-etcd-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-gangway-image",
+        "RelatesToProductReference": "Image caasp4/caasp-gangway-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-grafana-image",
+        "RelatesToProductReference": "Image caasp4/caasp-grafana-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-helm-tiller-image",
+        "RelatesToProductReference": "Image caasp4/caasp-helm-tiller-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-hyperkube-image",
+        "RelatesToProductReference": "Image caasp4/caasp-hyperkube-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-k8s-sidecar-image",
+        "RelatesToProductReference": "Image caasp4/caasp-k8s-sidecar-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-kube-state-metrics-image",
+        "RelatesToProductReference": "Image caasp4/caasp-kube-state-metrics-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-kubernetes-client-image",
+        "RelatesToProductReference": "Image caasp4/caasp-kubernetes-client-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-kured-image",
+        "RelatesToProductReference": "Image caasp4/caasp-kured-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-metrics-server-image",
+        "RelatesToProductReference": "Image caasp4/caasp-metrics-server-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-prometheus-alertmanager-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-alertmanager-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-prometheus-node-exporter-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-node-exporter-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-prometheus-pushgateway-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-pushgateway-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-prometheus-server-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-server-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-rsyslog-image",
+        "RelatesToProductReference": "Image caasp4/caasp-rsyslog-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-test-update-image",
+        "RelatesToProductReference": "Image caasp4/caasp-test-update-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-velero-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-velero-plugin-for-aws-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-plugin-for-aws-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-velero-plugin-for-gcp-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-plugin-for-gcp-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-velero-plugin-for-microsoft-azure-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-plugin-for-microsoft-azure-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "cpio-2.12-3.3.1",
-        "RelatesToProductReference": "Image caasp-velero-restic-restore-helper-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-restic-restore-helper-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-389-ds-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-busybox-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-caasp-dex-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-cert-manager-cainjector-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-cert-manager-controller-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-cert-manager-webhook-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-cilium-etcd-operator-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-cilium-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-cilium-operator-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-configmap-reload-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-coredns-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-curl-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-default-http-backend-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-etcd-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-gangway-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-grafana-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-helm-tiller-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-ingress-nginx-controller-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-base-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-pilot-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-proxyv2-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-k8s-sidecar-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-apiserver-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-controller-manager-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-proxy-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-scheduler-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-state-metrics-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kubernetes-client-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kucero-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kured-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-metrics-server-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-alertmanager-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-node-exporter-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-pushgateway-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-server-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-reloader-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-rsyslog-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-skuba-tooling-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-plugin-for-aws-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-plugin-for-gcp-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-plugin-for-microsoft-azure-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cpio-2.12-3.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-restic-restore-helper-image",
         "RelationType": "Default Component Of"
       },
       {
@@ -886,8 +911,8 @@
             "Container caasp/v4.5/cert-manager-controller:0.15.1:cpio-2.12-3.3.1",
             "Container caasp/v4.5/cert-manager-webhook:0.15.1:cpio-2.12-3.3.1",
             "Container caasp/v4.5/cilium-etcd-operator:2.0.5:cpio-2.12-3.3.1",
-            "Container caasp/v4.5/cilium-operator:1.7.5:cpio-2.12-3.3.1",
-            "Container caasp/v4.5/cilium:1.7.5:cpio-2.12-3.3.1",
+            "Container caasp/v4.5/cilium-operator:1.7.6:cpio-2.12-3.3.1",
+            "Container caasp/v4.5/cilium:1.7.6:cpio-2.12-3.3.1",
             "Container caasp/v4.5/configmap-reload:0.3.0:cpio-2.12-3.3.1",
             "Container caasp/v4.5/coredns:1.6.7:cpio-2.12-3.3.1",
             "Container caasp/v4.5/curl:7.66.0:cpio-2.12-3.3.1",
@@ -946,49 +971,11 @@
             "Container caasp/v4/velero-plugin-for-microsoft-azure:1.0.1:cpio-2.12-3.3.1",
             "Container caasp/v4/velero-restic-restore-helper:1.3.1:cpio-2.12-3.3.1",
             "Container caasp/v4/velero:1.3.1:cpio-2.12-3.3.1",
-            "Container caasp/v5/389-ds:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/busybox:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/caasp-dex:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/cert-manager-cainjector:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/cert-manager-controller:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/cert-manager-webhook:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/cilium-etcd-operator:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/cilium-operator:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/cilium:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/configmap-reload:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/coredns:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/curl:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/default-http-backend:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/etcd:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/gangway:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/grafana:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/helm-tiller:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/k8s-sidecar:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/kube-apiserver:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/kube-controller-manager:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/kube-proxy:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/kube-scheduler:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/kube-state-metrics:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/kubernetes-client:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/kucero:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/kured:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/metrics-server:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/prometheus-alertmanager:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/prometheus-node-exporter:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/prometheus-pushgateway:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/prometheus-server:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/reloader:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/rsyslog:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/skuba-tooling:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/velero-plugin-for-aws:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/velero-plugin-for-gcp:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/velero-plugin-for-microsoft-azure:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/velero-restic-restore-helper:beta:cpio-2.12-3.3.1",
-            "Container caasp/v5/velero:beta:cpio-2.12-3.3.1",
             "Container ingress-nginx-controller:0.15.0:cpio-2.12-3.3.1",
             "Container suse/sle15:15.0:cpio-2.12-3.3.1",
             "Container suse/sle15:15.1:cpio-2.12-3.3.1",
             "Container suse/sle15:15.2:cpio-2.12-3.3.1",
+            "Container suse/sle15:15.3:cpio-2.12-3.3.1",
             "Image SLES15-EC2-CHOST-HVM-BYOS:cpio-2.12-3.3.1",
             "Image SLES15-SP1-CHOST-BYOS-Ali:cpio-2.12-3.3.1",
             "Image SLES15-SP1-CHOST-BYOS-Azure:cpio-2.12-3.3.1",
@@ -1000,39 +987,82 @@
             "Image SLES15-SP2-CHOST-BYOS-EC2:cpio-2.12-3.3.1",
             "Image SLES15-SP2-CHOST-BYOS-GCE:cpio-2.12-3.3.1",
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:cpio-2.12-3.3.1",
-            "Image caasp-389-ds-image:cpio-2.12-3.3.1",
-            "Image caasp-busybox-image:cpio-2.12-3.3.1",
-            "Image caasp-caasp-dex-image:cpio-2.12-3.3.1",
-            "Image caasp-cert-exporter-image:cpio-2.12-3.3.1",
-            "Image caasp-cilium-etcd-operator-image:cpio-2.12-3.3.1",
-            "Image caasp-cilium-image:cpio-2.12-3.3.1",
-            "Image caasp-cilium-init-image:cpio-2.12-3.3.1",
-            "Image caasp-cilium-operator-image:cpio-2.12-3.3.1",
-            "Image caasp-cloud-provider-openstack-image:cpio-2.12-3.3.1",
-            "Image caasp-configmap-reload-image:cpio-2.12-3.3.1",
-            "Image caasp-coredns-image:cpio-2.12-3.3.1",
-            "Image caasp-curl-image:cpio-2.12-3.3.1",
-            "Image caasp-etcd-image:cpio-2.12-3.3.1",
-            "Image caasp-gangway-image:cpio-2.12-3.3.1",
-            "Image caasp-grafana-image:cpio-2.12-3.3.1",
-            "Image caasp-helm-tiller-image:cpio-2.12-3.3.1",
-            "Image caasp-hyperkube-image:cpio-2.12-3.3.1",
-            "Image caasp-k8s-sidecar-image:cpio-2.12-3.3.1",
-            "Image caasp-kube-state-metrics-image:cpio-2.12-3.3.1",
-            "Image caasp-kubernetes-client-image:cpio-2.12-3.3.1",
-            "Image caasp-kured-image:cpio-2.12-3.3.1",
-            "Image caasp-metrics-server-image:cpio-2.12-3.3.1",
-            "Image caasp-prometheus-alertmanager-image:cpio-2.12-3.3.1",
-            "Image caasp-prometheus-node-exporter-image:cpio-2.12-3.3.1",
-            "Image caasp-prometheus-pushgateway-image:cpio-2.12-3.3.1",
-            "Image caasp-prometheus-server-image:cpio-2.12-3.3.1",
-            "Image caasp-rsyslog-image:cpio-2.12-3.3.1",
-            "Image caasp-test-update-image:cpio-2.12-3.3.1",
-            "Image caasp-velero-image:cpio-2.12-3.3.1",
-            "Image caasp-velero-plugin-for-aws-image:cpio-2.12-3.3.1",
-            "Image caasp-velero-plugin-for-gcp-image:cpio-2.12-3.3.1",
-            "Image caasp-velero-plugin-for-microsoft-azure-image:cpio-2.12-3.3.1",
-            "Image caasp-velero-restic-restore-helper-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-389-ds-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-busybox-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-caasp-dex-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-cert-exporter-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-cilium-etcd-operator-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-cilium-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-cilium-init-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-cilium-operator-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-cloud-provider-openstack-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-configmap-reload-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-coredns-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-curl-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-etcd-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-gangway-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-grafana-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-helm-tiller-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-hyperkube-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-k8s-sidecar-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-kube-state-metrics-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-kubernetes-client-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-kured-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-metrics-server-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-prometheus-alertmanager-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-prometheus-node-exporter-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-prometheus-pushgateway-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-prometheus-server-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-rsyslog-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-test-update-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-velero-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-velero-plugin-for-aws-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-velero-plugin-for-gcp-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-velero-plugin-for-microsoft-azure-image:cpio-2.12-3.3.1",
+            "Image caasp4/caasp-velero-restic-restore-helper-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-389-ds-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-busybox-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-caasp-dex-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-cert-manager-cainjector-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-cert-manager-controller-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-cert-manager-webhook-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-cilium-etcd-operator-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-cilium-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-cilium-operator-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-configmap-reload-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-coredns-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-curl-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-default-http-backend-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-etcd-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-gangway-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-grafana-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-helm-tiller-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-ingress-nginx-controller-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-istio-base-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-istio-pilot-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-istio-proxyv2-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-k8s-sidecar-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-kube-apiserver-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-kube-controller-manager-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-kube-proxy-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-kube-scheduler-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-kube-state-metrics-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-kubernetes-client-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-kucero-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-kured-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-metrics-server-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-prometheus-alertmanager-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-prometheus-node-exporter-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-prometheus-pushgateway-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-prometheus-server-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-reloader-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-rsyslog-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-skuba-tooling-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-velero-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-velero-plugin-for-aws-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-velero-plugin-for-gcp-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-velero-plugin-for-microsoft-azure-image:cpio-2.12-3.3.1",
+            "Image caasp45/caasp-velero-restic-restore-helper-image:cpio-2.12-3.3.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:cpio-2.12-3.3.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:cpio-lang-2.12-3.3.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:cpio-mt-2.12-3.3.1",

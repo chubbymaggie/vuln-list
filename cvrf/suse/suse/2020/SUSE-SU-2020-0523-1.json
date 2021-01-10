@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2020:0523-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2020-02-28T08:29:28Z",
-    "CurrentReleaseDate": "2020-02-28T08:29:28Z",
+    "InitialReleaseDate": "2020-02-28T08:29:24Z",
+    "CurrentReleaseDate": "2020-02-28T08:29:24Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2020-02-28T08:29:28Z",
+        "Date": "2020-02-28T08:29:24Z",
         "Description": "current"
       }
     ]
@@ -89,13 +89,23 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libmysqlclient18-10.0.40.3-2.15.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
+        "ProductReference": "libmysqlclient18-32bit-10.0.40.3-2.15.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libmysqlclient18-32bit-10.0.40.3-2.15.1",
+        "ProductReference": "mariadb-100-10.0.40.3-2.15.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mariadb-100-errormessages-10.0.40.3-2.15.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libmysqlclient18-10.0.40.3-2.15.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -105,17 +115,7 @@
       },
       {
         "ProductReference": "mariadb-100-10.0.40.3-2.15.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "mariadb-100-10.0.40.3-2.15.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "mariadb-100-errormessages-10.0.40.3-2.15.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -125,6 +125,21 @@
       },
       {
         "ProductReference": "libmysqlclient18-10.0.40.3-2.15.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libmysqlclient18-32bit-10.0.40.3-2.15.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mariadb-100-10.0.40.3-2.15.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "mariadb-100-errormessages-10.0.40.3-2.15.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
         "RelationType": "Default Component Of"
       },
@@ -135,27 +150,12 @@
       },
       {
         "ProductReference": "libmysqlclient18-32bit-10.0.40.3-2.15.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libmysqlclient18-32bit-10.0.40.3-2.15.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "mariadb-100-10.0.40.3-2.15.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "mariadb-100-10.0.40.3-2.15.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "mariadb-100-errormessages-10.0.40.3-2.15.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
         "RelationType": "Default Component Of"
       },
       {

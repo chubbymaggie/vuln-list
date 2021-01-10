@@ -35,12 +35,12 @@
     "Relationships": [
       {
         "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v4.5/cilium:1.7.5",
+        "RelatesToProductReference": "Container caasp/v4.5/cilium:1.7.6",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v4.5/cilium:1.7.5",
+        "RelatesToProductReference": "Container caasp/v4.5/cilium:1.7.6",
         "RelationType": "Default Component Of"
       },
       {
@@ -290,126 +290,6 @@
       },
       {
         "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/cilium:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/cilium:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/etcd:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/etcd:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/grafana:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/grafana:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/k8s-sidecar:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/k8s-sidecar:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/kube-controller-manager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/kube-controller-manager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/kube-proxy:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/kube-proxy:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-alertmanager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-alertmanager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-node-exporter:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-node-exporter:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-pushgateway:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-pushgateway:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-server:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-server:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/rsyslog:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/rsyslog:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/skuba-tooling:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Container caasp/v5/skuba-tooling:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "dbus-1-1.12.2-8.3.1",
         "RelatesToProductReference": "Image SLES15-SP1-CHOST-BYOS-Ali",
         "RelationType": "Default Component Of"
       },
@@ -510,102 +390,237 @@
       },
       {
         "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-cilium-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-cilium-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-etcd-image",
+        "RelatesToProductReference": "Image caasp4/caasp-etcd-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-etcd-image",
+        "RelatesToProductReference": "Image caasp4/caasp-etcd-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-grafana-image",
+        "RelatesToProductReference": "Image caasp4/caasp-grafana-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-grafana-image",
+        "RelatesToProductReference": "Image caasp4/caasp-grafana-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-hyperkube-image",
+        "RelatesToProductReference": "Image caasp4/caasp-hyperkube-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-hyperkube-image",
+        "RelatesToProductReference": "Image caasp4/caasp-hyperkube-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-k8s-sidecar-image",
+        "RelatesToProductReference": "Image caasp4/caasp-k8s-sidecar-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-k8s-sidecar-image",
+        "RelatesToProductReference": "Image caasp4/caasp-k8s-sidecar-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-prometheus-alertmanager-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-alertmanager-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-prometheus-alertmanager-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-alertmanager-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-prometheus-node-exporter-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-node-exporter-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-prometheus-node-exporter-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-node-exporter-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-prometheus-pushgateway-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-pushgateway-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-prometheus-pushgateway-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-pushgateway-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-prometheus-server-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-server-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-prometheus-server-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-server-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "dbus-1-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-rsyslog-image",
+        "RelatesToProductReference": "Image caasp4/caasp-rsyslog-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
-        "RelatesToProductReference": "Image caasp-rsyslog-image",
+        "RelatesToProductReference": "Image caasp4/caasp-rsyslog-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-cilium-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-cilium-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-etcd-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-etcd-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-grafana-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-grafana-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-base-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-pilot-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-proxyv2-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-k8s-sidecar-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-k8s-sidecar-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-controller-manager-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-controller-manager-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-proxy-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-proxy-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-alertmanager-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-alertmanager-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-node-exporter-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-node-exporter-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-pushgateway-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-pushgateway-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-server-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-server-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-rsyslog-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-rsyslog-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dbus-1-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-skuba-tooling-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdbus-1-3-1.12.2-8.3.1",
+        "RelatesToProductReference": "Image caasp45/caasp-skuba-tooling-image",
         "RelationType": "Default Component Of"
       },
       {
@@ -688,8 +703,8 @@
         {
           "Type": "Fixed",
           "ProductID": [
-            "Container caasp/v4.5/cilium:1.7.5:dbus-1-1.12.2-8.3.1",
-            "Container caasp/v4.5/cilium:1.7.5:libdbus-1-3-1.12.2-8.3.1",
+            "Container caasp/v4.5/cilium:1.7.6:dbus-1-1.12.2-8.3.1",
+            "Container caasp/v4.5/cilium:1.7.6:libdbus-1-3-1.12.2-8.3.1",
             "Container caasp/v4.5/etcd:3.4.3:dbus-1-1.12.2-8.3.1",
             "Container caasp/v4.5/etcd:3.4.3:libdbus-1-3-1.12.2-8.3.1",
             "Container caasp/v4.5/grafana:7.0.3:dbus-1-1.12.2-8.3.1",
@@ -739,30 +754,6 @@
             "Container caasp/v4/rsyslog:8.39.0:libdbus-1-3-1.12.2-8.3.1",
             "Container caasp/v4/skuba-tooling:0.1.0:dbus-1-1.12.2-8.3.1",
             "Container caasp/v4/skuba-tooling:0.1.0:libdbus-1-3-1.12.2-8.3.1",
-            "Container caasp/v5/cilium:beta:dbus-1-1.12.2-8.3.1",
-            "Container caasp/v5/cilium:beta:libdbus-1-3-1.12.2-8.3.1",
-            "Container caasp/v5/etcd:beta:dbus-1-1.12.2-8.3.1",
-            "Container caasp/v5/etcd:beta:libdbus-1-3-1.12.2-8.3.1",
-            "Container caasp/v5/grafana:beta:dbus-1-1.12.2-8.3.1",
-            "Container caasp/v5/grafana:beta:libdbus-1-3-1.12.2-8.3.1",
-            "Container caasp/v5/k8s-sidecar:beta:dbus-1-1.12.2-8.3.1",
-            "Container caasp/v5/k8s-sidecar:beta:libdbus-1-3-1.12.2-8.3.1",
-            "Container caasp/v5/kube-controller-manager:beta:dbus-1-1.12.2-8.3.1",
-            "Container caasp/v5/kube-controller-manager:beta:libdbus-1-3-1.12.2-8.3.1",
-            "Container caasp/v5/kube-proxy:beta:dbus-1-1.12.2-8.3.1",
-            "Container caasp/v5/kube-proxy:beta:libdbus-1-3-1.12.2-8.3.1",
-            "Container caasp/v5/prometheus-alertmanager:beta:dbus-1-1.12.2-8.3.1",
-            "Container caasp/v5/prometheus-alertmanager:beta:libdbus-1-3-1.12.2-8.3.1",
-            "Container caasp/v5/prometheus-node-exporter:beta:dbus-1-1.12.2-8.3.1",
-            "Container caasp/v5/prometheus-node-exporter:beta:libdbus-1-3-1.12.2-8.3.1",
-            "Container caasp/v5/prometheus-pushgateway:beta:dbus-1-1.12.2-8.3.1",
-            "Container caasp/v5/prometheus-pushgateway:beta:libdbus-1-3-1.12.2-8.3.1",
-            "Container caasp/v5/prometheus-server:beta:dbus-1-1.12.2-8.3.1",
-            "Container caasp/v5/prometheus-server:beta:libdbus-1-3-1.12.2-8.3.1",
-            "Container caasp/v5/rsyslog:beta:dbus-1-1.12.2-8.3.1",
-            "Container caasp/v5/rsyslog:beta:libdbus-1-3-1.12.2-8.3.1",
-            "Container caasp/v5/skuba-tooling:beta:dbus-1-1.12.2-8.3.1",
-            "Container caasp/v5/skuba-tooling:beta:libdbus-1-3-1.12.2-8.3.1",
             "Image SLES15-SP1-CHOST-BYOS-Ali:dbus-1-1.12.2-8.3.1",
             "Image SLES15-SP1-CHOST-BYOS-Ali:libdbus-1-3-1.12.2-8.3.1",
             "Image SLES15-SP1-CHOST-BYOS-Azure:dbus-1-1.12.2-8.3.1",
@@ -783,26 +774,53 @@
             "Image SLES15-SP2-CHOST-BYOS-GCE:libdbus-1-3-1.12.2-8.3.1",
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:dbus-1-1.12.2-8.3.1",
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:libdbus-1-3-1.12.2-8.3.1",
-            "Image caasp-cilium-image:dbus-1-1.12.2-8.3.1",
-            "Image caasp-cilium-image:libdbus-1-3-1.12.2-8.3.1",
-            "Image caasp-etcd-image:dbus-1-1.12.2-8.3.1",
-            "Image caasp-etcd-image:libdbus-1-3-1.12.2-8.3.1",
-            "Image caasp-grafana-image:dbus-1-1.12.2-8.3.1",
-            "Image caasp-grafana-image:libdbus-1-3-1.12.2-8.3.1",
-            "Image caasp-hyperkube-image:dbus-1-1.12.2-8.3.1",
-            "Image caasp-hyperkube-image:libdbus-1-3-1.12.2-8.3.1",
-            "Image caasp-k8s-sidecar-image:dbus-1-1.12.2-8.3.1",
-            "Image caasp-k8s-sidecar-image:libdbus-1-3-1.12.2-8.3.1",
-            "Image caasp-prometheus-alertmanager-image:dbus-1-1.12.2-8.3.1",
-            "Image caasp-prometheus-alertmanager-image:libdbus-1-3-1.12.2-8.3.1",
-            "Image caasp-prometheus-node-exporter-image:dbus-1-1.12.2-8.3.1",
-            "Image caasp-prometheus-node-exporter-image:libdbus-1-3-1.12.2-8.3.1",
-            "Image caasp-prometheus-pushgateway-image:dbus-1-1.12.2-8.3.1",
-            "Image caasp-prometheus-pushgateway-image:libdbus-1-3-1.12.2-8.3.1",
-            "Image caasp-prometheus-server-image:dbus-1-1.12.2-8.3.1",
-            "Image caasp-prometheus-server-image:libdbus-1-3-1.12.2-8.3.1",
-            "Image caasp-rsyslog-image:dbus-1-1.12.2-8.3.1",
-            "Image caasp-rsyslog-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp4/caasp-cilium-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp4/caasp-cilium-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp4/caasp-etcd-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp4/caasp-etcd-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp4/caasp-grafana-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp4/caasp-grafana-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp4/caasp-hyperkube-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp4/caasp-hyperkube-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp4/caasp-k8s-sidecar-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp4/caasp-k8s-sidecar-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp4/caasp-prometheus-alertmanager-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp4/caasp-prometheus-alertmanager-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp4/caasp-prometheus-node-exporter-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp4/caasp-prometheus-node-exporter-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp4/caasp-prometheus-pushgateway-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp4/caasp-prometheus-pushgateway-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp4/caasp-prometheus-server-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp4/caasp-prometheus-server-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp4/caasp-rsyslog-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp4/caasp-rsyslog-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-cilium-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp45/caasp-cilium-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-etcd-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp45/caasp-etcd-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-grafana-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp45/caasp-grafana-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-istio-base-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-istio-pilot-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-istio-proxyv2-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-k8s-sidecar-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp45/caasp-k8s-sidecar-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-kube-controller-manager-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp45/caasp-kube-controller-manager-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-kube-proxy-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp45/caasp-kube-proxy-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-prometheus-alertmanager-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp45/caasp-prometheus-alertmanager-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-prometheus-node-exporter-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp45/caasp-prometheus-node-exporter-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-prometheus-pushgateway-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp45/caasp-prometheus-pushgateway-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-prometheus-server-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp45/caasp-prometheus-server-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-rsyslog-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp45/caasp-rsyslog-image:libdbus-1-3-1.12.2-8.3.1",
+            "Image caasp45/caasp-skuba-tooling-image:dbus-1-1.12.2-8.3.1",
+            "Image caasp45/caasp-skuba-tooling-image:libdbus-1-3-1.12.2-8.3.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:dbus-1-1.12.2-8.3.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:dbus-1-devel-1.12.2-8.3.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:dbus-1-x11-1.12.2-8.3.1",

@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2020:0140-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2020-01-20T09:57:46Z",
-    "CurrentReleaseDate": "2020-01-20T09:57:46Z",
+    "InitialReleaseDate": "2020-01-20T09:57:43Z",
+    "CurrentReleaseDate": "2020-01-20T09:57:43Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2020-01-20T09:57:46Z",
+        "Date": "2020-01-20T09:57:43Z",
         "Description": "current"
       }
     ]
@@ -39,33 +39,33 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "java-11-openjdk-demo-11.0.6.0-3.6.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-11-openjdk-devel-11.0.6.0-3.6.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-11-openjdk-headless-11.0.6.0-3.6.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "java-11-openjdk-11.0.6.0-3.6.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "java-11-openjdk-demo-11.0.6.0-3.6.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "java-11-openjdk-demo-11.0.6.0-3.6.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "java-11-openjdk-devel-11.0.6.0-3.6.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "java-11-openjdk-devel-11.0.6.0-3.6.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "java-11-openjdk-headless-11.0.6.0-3.6.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
@@ -299,6 +299,10 @@
         {
           "URL": "https://bugzilla.suse.com/1160968",
           "Description": "SUSE Bug 1160968"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1172277",
+          "Description": "SUSE Bug 1172277"
         }
       ],
       "ProductStatuses": [

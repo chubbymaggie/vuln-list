@@ -39,33 +39,33 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "java-11-openjdk-demo-11.0.8.0-3.12.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-11-openjdk-devel-11.0.8.0-3.12.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-11-openjdk-headless-11.0.8.0-3.12.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "java-11-openjdk-11.0.8.0-3.12.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "java-11-openjdk-demo-11.0.8.0-3.12.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "java-11-openjdk-demo-11.0.8.0-3.12.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "java-11-openjdk-devel-11.0.8.0-3.12.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "java-11-openjdk-devel-11.0.8.0-3.12.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "java-11-openjdk-headless-11.0.8.0-3.12.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
@@ -208,7 +208,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -288,7 +288,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -328,7 +328,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -368,7 +368,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [

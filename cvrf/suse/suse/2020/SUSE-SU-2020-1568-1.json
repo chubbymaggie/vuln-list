@@ -79,33 +79,33 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "nodejs10-devel-10.21.0-1.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "nodejs10-docs-10.21.0-1.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "npm10-10.21.0-1.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "nodejs10-10.21.0-1.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "nodejs10-devel-10.21.0-1.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "nodejs10-devel-10.21.0-1.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "nodejs10-docs-10.21.0-1.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "nodejs10-docs-10.21.0-1.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "npm10-10.21.0-1.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
         "RelationType": "Default Component Of"
       },
       {
@@ -187,6 +187,10 @@
         {
           "URL": "https://bugzilla.suse.com/1166844",
           "Description": "SUSE Bug 1166844"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1175778",
+          "Description": "SUSE Bug 1175778"
         }
       ],
       "ProductStatuses": [

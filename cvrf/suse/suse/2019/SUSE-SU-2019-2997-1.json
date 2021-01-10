@@ -155,32 +155,32 @@
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v4.5/cilium-operator:1.7.5",
+        "RelatesToProductReference": "Container caasp/v4.5/cilium-operator:1.7.6",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v4.5/cilium-operator:1.7.5",
+        "RelatesToProductReference": "Container caasp/v4.5/cilium-operator:1.7.6",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v4.5/cilium-operator:1.7.5",
+        "RelatesToProductReference": "Container caasp/v4.5/cilium-operator:1.7.6",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v4.5/cilium:1.7.5",
+        "RelatesToProductReference": "Container caasp/v4.5/cilium:1.7.6",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v4.5/cilium:1.7.5",
+        "RelatesToProductReference": "Container caasp/v4.5/cilium:1.7.6",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v4.5/cilium:1.7.5",
+        "RelatesToProductReference": "Container caasp/v4.5/cilium:1.7.6",
         "RelationType": "Default Component Of"
       },
       {
@@ -1130,591 +1130,6 @@
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/389-ds:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/389-ds:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/389-ds:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/busybox:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/busybox:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/busybox:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/caasp-dex:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/caasp-dex:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/caasp-dex:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cert-manager-cainjector:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cert-manager-cainjector:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cert-manager-cainjector:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cert-manager-controller:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cert-manager-controller:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cert-manager-controller:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cert-manager-webhook:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cert-manager-webhook:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cert-manager-webhook:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cilium-etcd-operator:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cilium-etcd-operator:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cilium-etcd-operator:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cilium-operator:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cilium-operator:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cilium-operator:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cilium:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cilium:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/cilium:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/configmap-reload:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/configmap-reload:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/configmap-reload:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/coredns:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/coredns:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/coredns:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/curl:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/curl:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/curl:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/default-http-backend:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/default-http-backend:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/default-http-backend:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/etcd:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/etcd:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/etcd:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/gangway:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/gangway:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/gangway:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/grafana:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/grafana:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/grafana:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/helm-tiller:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/helm-tiller:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/helm-tiller:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/k8s-sidecar:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/k8s-sidecar:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/k8s-sidecar:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-apiserver:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-apiserver:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-apiserver:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-controller-manager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-controller-manager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-controller-manager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-proxy:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-proxy:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-proxy:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-scheduler:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-scheduler:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-scheduler:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-state-metrics:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-state-metrics:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kube-state-metrics:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kubernetes-client:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kubernetes-client:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kubernetes-client:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kucero:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kucero:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kucero:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kured:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kured:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/kured:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/metrics-server:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/metrics-server:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/metrics-server:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-alertmanager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-alertmanager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-alertmanager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-node-exporter:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-node-exporter:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-node-exporter:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-pushgateway:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-pushgateway:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-pushgateway:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-server:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-server:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/prometheus-server:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/reloader:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/reloader:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/reloader:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/rsyslog:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/rsyslog:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/rsyslog:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/skuba-tooling:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/skuba-tooling:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/skuba-tooling:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero-plugin-for-aws:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero-plugin-for-aws:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero-plugin-for-aws:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero-plugin-for-gcp:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero-plugin-for-gcp:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero-plugin-for-gcp:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero-plugin-for-microsoft-azure:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero-plugin-for-microsoft-azure:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero-plugin-for-microsoft-azure:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero-restic-restore-helper:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero-restic-restore-helper:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero-restic-restore-helper:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Container caasp/v5/velero:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libncurses6-6.1-5.6.2",
         "RelatesToProductReference": "Container ingress-nginx-controller:0.15.0",
         "RelationType": "Default Component Of"
       },
@@ -1775,6 +1190,21 @@
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Container suse/sle15:15.3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Container suse/sle15:15.3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Container suse/sle15:15.3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
         "RelatesToProductReference": "Image SLES15-EC2-CHOST-HVM-BYOS",
         "RelationType": "Default Component Of"
       },
@@ -1995,497 +1425,1142 @@
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-389-ds-image",
+        "RelatesToProductReference": "Image caasp4/caasp-389-ds-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-389-ds-image",
+        "RelatesToProductReference": "Image caasp4/caasp-389-ds-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-389-ds-image",
+        "RelatesToProductReference": "Image caasp4/caasp-389-ds-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-busybox-image",
+        "RelatesToProductReference": "Image caasp4/caasp-busybox-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-busybox-image",
+        "RelatesToProductReference": "Image caasp4/caasp-busybox-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-busybox-image",
+        "RelatesToProductReference": "Image caasp4/caasp-busybox-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-caasp-dex-image",
+        "RelatesToProductReference": "Image caasp4/caasp-caasp-dex-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-caasp-dex-image",
+        "RelatesToProductReference": "Image caasp4/caasp-caasp-dex-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-caasp-dex-image",
+        "RelatesToProductReference": "Image caasp4/caasp-caasp-dex-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cert-exporter-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cert-exporter-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cert-exporter-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cert-exporter-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cert-exporter-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cert-exporter-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cilium-etcd-operator-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-etcd-operator-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cilium-etcd-operator-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-etcd-operator-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cilium-etcd-operator-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-etcd-operator-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cilium-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cilium-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cilium-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cilium-init-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-init-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cilium-init-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-init-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cilium-init-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-init-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cilium-operator-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-operator-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cilium-operator-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-operator-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cilium-operator-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cilium-operator-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cloud-provider-openstack-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cloud-provider-openstack-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cloud-provider-openstack-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cloud-provider-openstack-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-cloud-provider-openstack-image",
+        "RelatesToProductReference": "Image caasp4/caasp-cloud-provider-openstack-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-configmap-reload-image",
+        "RelatesToProductReference": "Image caasp4/caasp-configmap-reload-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-configmap-reload-image",
+        "RelatesToProductReference": "Image caasp4/caasp-configmap-reload-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-configmap-reload-image",
+        "RelatesToProductReference": "Image caasp4/caasp-configmap-reload-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-coredns-image",
+        "RelatesToProductReference": "Image caasp4/caasp-coredns-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-coredns-image",
+        "RelatesToProductReference": "Image caasp4/caasp-coredns-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-coredns-image",
+        "RelatesToProductReference": "Image caasp4/caasp-coredns-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-curl-image",
+        "RelatesToProductReference": "Image caasp4/caasp-curl-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-curl-image",
+        "RelatesToProductReference": "Image caasp4/caasp-curl-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-curl-image",
+        "RelatesToProductReference": "Image caasp4/caasp-curl-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-etcd-image",
+        "RelatesToProductReference": "Image caasp4/caasp-etcd-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-etcd-image",
+        "RelatesToProductReference": "Image caasp4/caasp-etcd-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-etcd-image",
+        "RelatesToProductReference": "Image caasp4/caasp-etcd-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-gangway-image",
+        "RelatesToProductReference": "Image caasp4/caasp-gangway-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-gangway-image",
+        "RelatesToProductReference": "Image caasp4/caasp-gangway-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-gangway-image",
+        "RelatesToProductReference": "Image caasp4/caasp-gangway-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-grafana-image",
+        "RelatesToProductReference": "Image caasp4/caasp-grafana-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-grafana-image",
+        "RelatesToProductReference": "Image caasp4/caasp-grafana-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-grafana-image",
+        "RelatesToProductReference": "Image caasp4/caasp-grafana-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-helm-tiller-image",
+        "RelatesToProductReference": "Image caasp4/caasp-helm-tiller-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-helm-tiller-image",
+        "RelatesToProductReference": "Image caasp4/caasp-helm-tiller-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-helm-tiller-image",
+        "RelatesToProductReference": "Image caasp4/caasp-helm-tiller-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-hyperkube-image",
+        "RelatesToProductReference": "Image caasp4/caasp-hyperkube-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-hyperkube-image",
+        "RelatesToProductReference": "Image caasp4/caasp-hyperkube-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-hyperkube-image",
+        "RelatesToProductReference": "Image caasp4/caasp-hyperkube-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-k8s-sidecar-image",
+        "RelatesToProductReference": "Image caasp4/caasp-k8s-sidecar-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-k8s-sidecar-image",
+        "RelatesToProductReference": "Image caasp4/caasp-k8s-sidecar-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-k8s-sidecar-image",
+        "RelatesToProductReference": "Image caasp4/caasp-k8s-sidecar-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-kube-state-metrics-image",
+        "RelatesToProductReference": "Image caasp4/caasp-kube-state-metrics-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-kube-state-metrics-image",
+        "RelatesToProductReference": "Image caasp4/caasp-kube-state-metrics-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-kube-state-metrics-image",
+        "RelatesToProductReference": "Image caasp4/caasp-kube-state-metrics-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-kubernetes-client-image",
+        "RelatesToProductReference": "Image caasp4/caasp-kubernetes-client-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-kubernetes-client-image",
+        "RelatesToProductReference": "Image caasp4/caasp-kubernetes-client-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-kubernetes-client-image",
+        "RelatesToProductReference": "Image caasp4/caasp-kubernetes-client-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-kured-image",
+        "RelatesToProductReference": "Image caasp4/caasp-kured-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-kured-image",
+        "RelatesToProductReference": "Image caasp4/caasp-kured-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-kured-image",
+        "RelatesToProductReference": "Image caasp4/caasp-kured-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-metrics-server-image",
+        "RelatesToProductReference": "Image caasp4/caasp-metrics-server-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-metrics-server-image",
+        "RelatesToProductReference": "Image caasp4/caasp-metrics-server-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-metrics-server-image",
+        "RelatesToProductReference": "Image caasp4/caasp-metrics-server-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-prometheus-alertmanager-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-alertmanager-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-prometheus-alertmanager-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-alertmanager-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-prometheus-alertmanager-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-alertmanager-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-prometheus-node-exporter-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-node-exporter-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-prometheus-node-exporter-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-node-exporter-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-prometheus-node-exporter-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-node-exporter-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-prometheus-pushgateway-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-pushgateway-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-prometheus-pushgateway-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-pushgateway-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-prometheus-pushgateway-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-pushgateway-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-prometheus-server-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-server-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-prometheus-server-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-server-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-prometheus-server-image",
+        "RelatesToProductReference": "Image caasp4/caasp-prometheus-server-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-rsyslog-image",
+        "RelatesToProductReference": "Image caasp4/caasp-rsyslog-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-rsyslog-image",
+        "RelatesToProductReference": "Image caasp4/caasp-rsyslog-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-rsyslog-image",
+        "RelatesToProductReference": "Image caasp4/caasp-rsyslog-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-test-update-image",
+        "RelatesToProductReference": "Image caasp4/caasp-test-update-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-test-update-image",
+        "RelatesToProductReference": "Image caasp4/caasp-test-update-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-test-update-image",
+        "RelatesToProductReference": "Image caasp4/caasp-test-update-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-plugin-for-aws-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-plugin-for-aws-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-plugin-for-aws-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-plugin-for-aws-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-plugin-for-aws-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-plugin-for-aws-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-plugin-for-gcp-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-plugin-for-gcp-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-plugin-for-gcp-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-plugin-for-gcp-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-plugin-for-gcp-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-plugin-for-gcp-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-plugin-for-microsoft-azure-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-plugin-for-microsoft-azure-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-plugin-for-microsoft-azure-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-plugin-for-microsoft-azure-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-plugin-for-microsoft-azure-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-plugin-for-microsoft-azure-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libncurses6-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-restic-restore-helper-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-restic-restore-helper-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "ncurses-utils-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-restic-restore-helper-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-restic-restore-helper-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "terminfo-base-6.1-5.6.2",
-        "RelatesToProductReference": "Image caasp-velero-restic-restore-helper-image",
+        "RelatesToProductReference": "Image caasp4/caasp-velero-restic-restore-helper-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-389-ds-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-389-ds-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-389-ds-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-busybox-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-busybox-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-busybox-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-caasp-dex-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-caasp-dex-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-caasp-dex-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cert-manager-cainjector-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cert-manager-cainjector-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cert-manager-cainjector-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cert-manager-controller-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cert-manager-controller-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cert-manager-controller-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cert-manager-webhook-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cert-manager-webhook-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cert-manager-webhook-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cilium-etcd-operator-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cilium-etcd-operator-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cilium-etcd-operator-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cilium-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cilium-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cilium-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cilium-operator-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cilium-operator-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-cilium-operator-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-configmap-reload-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-configmap-reload-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-configmap-reload-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-coredns-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-coredns-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-coredns-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-curl-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-curl-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-curl-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-default-http-backend-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-default-http-backend-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-default-http-backend-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-etcd-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-etcd-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-etcd-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-gangway-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-gangway-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-gangway-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-grafana-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-grafana-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-grafana-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-helm-tiller-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-helm-tiller-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-helm-tiller-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-ingress-nginx-controller-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-ingress-nginx-controller-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-ingress-nginx-controller-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-base-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-base-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-base-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-pilot-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-pilot-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-pilot-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-proxyv2-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-proxyv2-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-proxyv2-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-k8s-sidecar-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-k8s-sidecar-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-k8s-sidecar-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-apiserver-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-apiserver-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-apiserver-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-controller-manager-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-controller-manager-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-controller-manager-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-proxy-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-proxy-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-proxy-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-scheduler-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-scheduler-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-scheduler-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-state-metrics-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-state-metrics-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-state-metrics-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kubernetes-client-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kubernetes-client-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kubernetes-client-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kucero-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kucero-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kucero-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kured-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kured-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-kured-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-metrics-server-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-metrics-server-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-metrics-server-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-alertmanager-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-alertmanager-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-alertmanager-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-node-exporter-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-node-exporter-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-node-exporter-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-pushgateway-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-pushgateway-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-pushgateway-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-server-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-server-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-prometheus-server-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-reloader-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-reloader-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-reloader-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-rsyslog-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-rsyslog-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-rsyslog-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-skuba-tooling-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-skuba-tooling-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-skuba-tooling-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-plugin-for-aws-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-plugin-for-aws-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-plugin-for-aws-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-plugin-for-gcp-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-plugin-for-gcp-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-plugin-for-gcp-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-plugin-for-microsoft-azure-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-plugin-for-microsoft-azure-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-plugin-for-microsoft-azure-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libncurses6-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-restic-restore-helper-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ncurses-utils-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-restic-restore-helper-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "terminfo-base-6.1-5.6.2",
+        "RelatesToProductReference": "Image caasp45/caasp-velero-restic-restore-helper-image",
         "RelationType": "Default Component Of"
       },
       {
@@ -2722,12 +2797,12 @@
             "Container caasp/v4.5/cilium-etcd-operator:2.0.5:libncurses6-6.1-5.6.2",
             "Container caasp/v4.5/cilium-etcd-operator:2.0.5:ncurses-utils-6.1-5.6.2",
             "Container caasp/v4.5/cilium-etcd-operator:2.0.5:terminfo-base-6.1-5.6.2",
-            "Container caasp/v4.5/cilium-operator:1.7.5:libncurses6-6.1-5.6.2",
-            "Container caasp/v4.5/cilium-operator:1.7.5:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v4.5/cilium-operator:1.7.5:terminfo-base-6.1-5.6.2",
-            "Container caasp/v4.5/cilium:1.7.5:libncurses6-6.1-5.6.2",
-            "Container caasp/v4.5/cilium:1.7.5:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v4.5/cilium:1.7.5:terminfo-base-6.1-5.6.2",
+            "Container caasp/v4.5/cilium-operator:1.7.6:libncurses6-6.1-5.6.2",
+            "Container caasp/v4.5/cilium-operator:1.7.6:ncurses-utils-6.1-5.6.2",
+            "Container caasp/v4.5/cilium-operator:1.7.6:terminfo-base-6.1-5.6.2",
+            "Container caasp/v4.5/cilium:1.7.6:libncurses6-6.1-5.6.2",
+            "Container caasp/v4.5/cilium:1.7.6:ncurses-utils-6.1-5.6.2",
+            "Container caasp/v4.5/cilium:1.7.6:terminfo-base-6.1-5.6.2",
             "Container caasp/v4.5/configmap-reload:0.3.0:libncurses6-6.1-5.6.2",
             "Container caasp/v4.5/configmap-reload:0.3.0:ncurses-utils-6.1-5.6.2",
             "Container caasp/v4.5/configmap-reload:0.3.0:terminfo-base-6.1-5.6.2",
@@ -2917,123 +2992,6 @@
             "Container caasp/v4/velero:1.3.1:libncurses6-6.1-5.6.2",
             "Container caasp/v4/velero:1.3.1:ncurses-utils-6.1-5.6.2",
             "Container caasp/v4/velero:1.3.1:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/389-ds:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/389-ds:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/389-ds:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/busybox:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/busybox:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/busybox:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/caasp-dex:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/caasp-dex:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/caasp-dex:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-cainjector:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-cainjector:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-cainjector:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-controller:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-controller:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-controller:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-webhook:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-webhook:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-webhook:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/cilium-etcd-operator:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/cilium-etcd-operator:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/cilium-etcd-operator:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/cilium-operator:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/cilium-operator:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/cilium-operator:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/cilium:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/cilium:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/cilium:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/configmap-reload:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/configmap-reload:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/configmap-reload:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/coredns:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/coredns:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/coredns:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/curl:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/curl:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/curl:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/default-http-backend:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/default-http-backend:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/default-http-backend:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/etcd:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/etcd:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/etcd:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/gangway:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/gangway:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/gangway:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/grafana:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/grafana:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/grafana:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/helm-tiller:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/helm-tiller:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/helm-tiller:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/k8s-sidecar:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/k8s-sidecar:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/k8s-sidecar:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kube-apiserver:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kube-apiserver:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kube-apiserver:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kube-controller-manager:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kube-controller-manager:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kube-controller-manager:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kube-proxy:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kube-proxy:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kube-proxy:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kube-scheduler:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kube-scheduler:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kube-scheduler:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kube-state-metrics:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kube-state-metrics:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kube-state-metrics:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kubernetes-client:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kubernetes-client:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kubernetes-client:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kucero:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kucero:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kucero:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kured:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kured:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kured:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/metrics-server:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/metrics-server:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/metrics-server:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/prometheus-alertmanager:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/prometheus-alertmanager:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/prometheus-alertmanager:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/prometheus-node-exporter:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/prometheus-node-exporter:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/prometheus-node-exporter:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/prometheus-pushgateway:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/prometheus-pushgateway:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/prometheus-pushgateway:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/prometheus-server:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/prometheus-server:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/prometheus-server:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/reloader:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/reloader:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/reloader:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/rsyslog:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/rsyslog:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/rsyslog:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/skuba-tooling:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/skuba-tooling:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/skuba-tooling:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-aws:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-aws:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-aws:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-gcp:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-gcp:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-gcp:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-microsoft-azure:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-microsoft-azure:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-microsoft-azure:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/velero-restic-restore-helper:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/velero-restic-restore-helper:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/velero-restic-restore-helper:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/velero:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/velero:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/velero:beta:terminfo-base-6.1-5.6.2",
             "Container ingress-nginx-controller:0.15.0:libncurses6-6.1-5.6.2",
             "Container ingress-nginx-controller:0.15.0:ncurses-utils-6.1-5.6.2",
             "Container ingress-nginx-controller:0.15.0:terminfo-base-6.1-5.6.2",
@@ -3046,6 +3004,9 @@
             "Container suse/sle15:15.2:libncurses6-6.1-5.6.2",
             "Container suse/sle15:15.2:ncurses-utils-6.1-5.6.2",
             "Container suse/sle15:15.2:terminfo-base-6.1-5.6.2",
+            "Container suse/sle15:15.3:libncurses6-6.1-5.6.2",
+            "Container suse/sle15:15.3:ncurses-utils-6.1-5.6.2",
+            "Container suse/sle15:15.3:terminfo-base-6.1-5.6.2",
             "Image SLES15-EC2-CHOST-HVM-BYOS:libncurses6-6.1-5.6.2",
             "Image SLES15-EC2-CHOST-HVM-BYOS:ncurses-utils-6.1-5.6.2",
             "Image SLES15-EC2-CHOST-HVM-BYOS:terminfo-6.1-5.6.2",
@@ -3090,105 +3051,234 @@
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:ncurses-utils-6.1-5.6.2",
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:terminfo-6.1-5.6.2",
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:terminfo-base-6.1-5.6.2",
-            "Image caasp-389-ds-image:libncurses6-6.1-5.6.2",
-            "Image caasp-389-ds-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-389-ds-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-busybox-image:libncurses6-6.1-5.6.2",
-            "Image caasp-busybox-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-busybox-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-caasp-dex-image:libncurses6-6.1-5.6.2",
-            "Image caasp-caasp-dex-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-caasp-dex-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-cert-exporter-image:libncurses6-6.1-5.6.2",
-            "Image caasp-cert-exporter-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-cert-exporter-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-cilium-etcd-operator-image:libncurses6-6.1-5.6.2",
-            "Image caasp-cilium-etcd-operator-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-cilium-etcd-operator-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-cilium-image:libncurses6-6.1-5.6.2",
-            "Image caasp-cilium-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-cilium-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-cilium-init-image:libncurses6-6.1-5.6.2",
-            "Image caasp-cilium-init-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-cilium-init-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-cilium-operator-image:libncurses6-6.1-5.6.2",
-            "Image caasp-cilium-operator-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-cilium-operator-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-cloud-provider-openstack-image:libncurses6-6.1-5.6.2",
-            "Image caasp-cloud-provider-openstack-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-cloud-provider-openstack-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-configmap-reload-image:libncurses6-6.1-5.6.2",
-            "Image caasp-configmap-reload-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-configmap-reload-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-coredns-image:libncurses6-6.1-5.6.2",
-            "Image caasp-coredns-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-coredns-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-curl-image:libncurses6-6.1-5.6.2",
-            "Image caasp-curl-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-curl-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-etcd-image:libncurses6-6.1-5.6.2",
-            "Image caasp-etcd-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-etcd-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-gangway-image:libncurses6-6.1-5.6.2",
-            "Image caasp-gangway-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-gangway-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-grafana-image:libncurses6-6.1-5.6.2",
-            "Image caasp-grafana-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-grafana-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-helm-tiller-image:libncurses6-6.1-5.6.2",
-            "Image caasp-helm-tiller-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-helm-tiller-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-hyperkube-image:libncurses6-6.1-5.6.2",
-            "Image caasp-hyperkube-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-hyperkube-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-k8s-sidecar-image:libncurses6-6.1-5.6.2",
-            "Image caasp-k8s-sidecar-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-k8s-sidecar-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-kube-state-metrics-image:libncurses6-6.1-5.6.2",
-            "Image caasp-kube-state-metrics-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-kube-state-metrics-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-kubernetes-client-image:libncurses6-6.1-5.6.2",
-            "Image caasp-kubernetes-client-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-kubernetes-client-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-kured-image:libncurses6-6.1-5.6.2",
-            "Image caasp-kured-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-kured-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-metrics-server-image:libncurses6-6.1-5.6.2",
-            "Image caasp-metrics-server-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-metrics-server-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-prometheus-alertmanager-image:libncurses6-6.1-5.6.2",
-            "Image caasp-prometheus-alertmanager-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-prometheus-alertmanager-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-prometheus-node-exporter-image:libncurses6-6.1-5.6.2",
-            "Image caasp-prometheus-node-exporter-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-prometheus-node-exporter-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-prometheus-pushgateway-image:libncurses6-6.1-5.6.2",
-            "Image caasp-prometheus-pushgateway-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-prometheus-pushgateway-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-prometheus-server-image:libncurses6-6.1-5.6.2",
-            "Image caasp-prometheus-server-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-prometheus-server-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-rsyslog-image:libncurses6-6.1-5.6.2",
-            "Image caasp-rsyslog-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-rsyslog-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-test-update-image:libncurses6-6.1-5.6.2",
-            "Image caasp-test-update-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-test-update-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-velero-image:libncurses6-6.1-5.6.2",
-            "Image caasp-velero-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-velero-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-aws-image:libncurses6-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-aws-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-aws-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-gcp-image:libncurses6-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-gcp-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-gcp-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-microsoft-azure-image:libncurses6-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-microsoft-azure-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-microsoft-azure-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-velero-restic-restore-helper-image:libncurses6-6.1-5.6.2",
-            "Image caasp-velero-restic-restore-helper-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-velero-restic-restore-helper-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-389-ds-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-389-ds-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-389-ds-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-busybox-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-busybox-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-busybox-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-caasp-dex-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-caasp-dex-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-caasp-dex-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-cert-exporter-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-cert-exporter-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-cert-exporter-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-etcd-operator-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-etcd-operator-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-etcd-operator-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-init-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-init-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-init-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-operator-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-operator-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-operator-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-cloud-provider-openstack-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-cloud-provider-openstack-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-cloud-provider-openstack-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-configmap-reload-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-configmap-reload-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-configmap-reload-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-coredns-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-coredns-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-coredns-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-curl-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-curl-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-curl-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-etcd-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-etcd-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-etcd-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-gangway-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-gangway-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-gangway-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-grafana-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-grafana-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-grafana-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-helm-tiller-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-helm-tiller-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-helm-tiller-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-hyperkube-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-hyperkube-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-hyperkube-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-k8s-sidecar-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-k8s-sidecar-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-k8s-sidecar-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-kube-state-metrics-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-kube-state-metrics-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-kube-state-metrics-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-kubernetes-client-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-kubernetes-client-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-kubernetes-client-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-kured-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-kured-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-kured-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-metrics-server-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-metrics-server-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-metrics-server-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-alertmanager-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-alertmanager-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-alertmanager-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-node-exporter-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-node-exporter-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-node-exporter-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-pushgateway-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-pushgateway-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-pushgateway-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-server-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-server-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-server-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-rsyslog-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-rsyslog-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-rsyslog-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-test-update-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-test-update-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-test-update-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-velero-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-velero-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-velero-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-aws-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-aws-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-aws-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-gcp-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-gcp-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-gcp-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-microsoft-azure-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-microsoft-azure-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-microsoft-azure-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-velero-restic-restore-helper-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-velero-restic-restore-helper-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-velero-restic-restore-helper-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-389-ds-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-389-ds-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-389-ds-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-busybox-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-busybox-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-busybox-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-caasp-dex-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-caasp-dex-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-caasp-dex-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-cainjector-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-cainjector-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-cainjector-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-controller-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-controller-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-controller-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-webhook-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-webhook-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-webhook-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-etcd-operator-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-etcd-operator-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-etcd-operator-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-operator-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-operator-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-operator-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-configmap-reload-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-configmap-reload-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-configmap-reload-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-coredns-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-coredns-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-coredns-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-curl-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-curl-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-curl-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-default-http-backend-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-default-http-backend-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-default-http-backend-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-etcd-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-etcd-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-etcd-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-gangway-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-gangway-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-gangway-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-grafana-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-grafana-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-grafana-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-helm-tiller-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-helm-tiller-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-helm-tiller-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-ingress-nginx-controller-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-ingress-nginx-controller-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-ingress-nginx-controller-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-istio-base-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-istio-base-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-istio-base-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-istio-pilot-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-istio-pilot-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-istio-pilot-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-istio-proxyv2-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-istio-proxyv2-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-istio-proxyv2-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-k8s-sidecar-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-k8s-sidecar-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-k8s-sidecar-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kube-apiserver-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kube-apiserver-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kube-apiserver-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kube-controller-manager-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kube-controller-manager-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kube-controller-manager-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kube-proxy-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kube-proxy-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kube-proxy-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kube-scheduler-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kube-scheduler-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kube-scheduler-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kube-state-metrics-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kube-state-metrics-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kube-state-metrics-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kubernetes-client-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kubernetes-client-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kubernetes-client-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kucero-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kucero-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kucero-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kured-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kured-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kured-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-metrics-server-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-metrics-server-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-metrics-server-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-alertmanager-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-alertmanager-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-alertmanager-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-node-exporter-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-node-exporter-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-node-exporter-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-pushgateway-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-pushgateway-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-pushgateway-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-server-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-server-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-server-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-reloader-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-reloader-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-reloader-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-rsyslog-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-rsyslog-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-rsyslog-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-skuba-tooling-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-skuba-tooling-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-skuba-tooling-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-velero-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-velero-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-velero-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-aws-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-aws-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-aws-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-gcp-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-gcp-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-gcp-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-microsoft-azure-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-microsoft-azure-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-microsoft-azure-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-velero-restic-restore-helper-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-velero-restic-restore-helper-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-velero-restic-restore-helper-image:terminfo-base-6.1-5.6.2",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:libncurses6-32bit-6.1-5.6.2",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:libncurses6-6.1-5.6.2",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:ncurses-6.1-5.6.2",
@@ -3275,12 +3365,12 @@
             "Container caasp/v4.5/cilium-etcd-operator:2.0.5:libncurses6-6.1-5.6.2",
             "Container caasp/v4.5/cilium-etcd-operator:2.0.5:ncurses-utils-6.1-5.6.2",
             "Container caasp/v4.5/cilium-etcd-operator:2.0.5:terminfo-base-6.1-5.6.2",
-            "Container caasp/v4.5/cilium-operator:1.7.5:libncurses6-6.1-5.6.2",
-            "Container caasp/v4.5/cilium-operator:1.7.5:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v4.5/cilium-operator:1.7.5:terminfo-base-6.1-5.6.2",
-            "Container caasp/v4.5/cilium:1.7.5:libncurses6-6.1-5.6.2",
-            "Container caasp/v4.5/cilium:1.7.5:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v4.5/cilium:1.7.5:terminfo-base-6.1-5.6.2",
+            "Container caasp/v4.5/cilium-operator:1.7.6:libncurses6-6.1-5.6.2",
+            "Container caasp/v4.5/cilium-operator:1.7.6:ncurses-utils-6.1-5.6.2",
+            "Container caasp/v4.5/cilium-operator:1.7.6:terminfo-base-6.1-5.6.2",
+            "Container caasp/v4.5/cilium:1.7.6:libncurses6-6.1-5.6.2",
+            "Container caasp/v4.5/cilium:1.7.6:ncurses-utils-6.1-5.6.2",
+            "Container caasp/v4.5/cilium:1.7.6:terminfo-base-6.1-5.6.2",
             "Container caasp/v4.5/configmap-reload:0.3.0:libncurses6-6.1-5.6.2",
             "Container caasp/v4.5/configmap-reload:0.3.0:ncurses-utils-6.1-5.6.2",
             "Container caasp/v4.5/configmap-reload:0.3.0:terminfo-base-6.1-5.6.2",
@@ -3470,123 +3560,6 @@
             "Container caasp/v4/velero:1.3.1:libncurses6-6.1-5.6.2",
             "Container caasp/v4/velero:1.3.1:ncurses-utils-6.1-5.6.2",
             "Container caasp/v4/velero:1.3.1:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/389-ds:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/389-ds:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/389-ds:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/busybox:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/busybox:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/busybox:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/caasp-dex:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/caasp-dex:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/caasp-dex:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-cainjector:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-cainjector:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-cainjector:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-controller:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-controller:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-controller:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-webhook:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-webhook:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/cert-manager-webhook:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/cilium-etcd-operator:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/cilium-etcd-operator:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/cilium-etcd-operator:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/cilium-operator:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/cilium-operator:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/cilium-operator:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/cilium:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/cilium:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/cilium:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/configmap-reload:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/configmap-reload:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/configmap-reload:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/coredns:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/coredns:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/coredns:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/curl:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/curl:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/curl:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/default-http-backend:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/default-http-backend:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/default-http-backend:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/etcd:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/etcd:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/etcd:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/gangway:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/gangway:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/gangway:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/grafana:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/grafana:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/grafana:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/helm-tiller:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/helm-tiller:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/helm-tiller:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/k8s-sidecar:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/k8s-sidecar:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/k8s-sidecar:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kube-apiserver:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kube-apiserver:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kube-apiserver:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kube-controller-manager:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kube-controller-manager:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kube-controller-manager:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kube-proxy:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kube-proxy:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kube-proxy:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kube-scheduler:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kube-scheduler:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kube-scheduler:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kube-state-metrics:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kube-state-metrics:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kube-state-metrics:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kubernetes-client:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kubernetes-client:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kubernetes-client:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kucero:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kucero:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kucero:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/kured:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/kured:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/kured:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/metrics-server:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/metrics-server:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/metrics-server:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/prometheus-alertmanager:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/prometheus-alertmanager:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/prometheus-alertmanager:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/prometheus-node-exporter:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/prometheus-node-exporter:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/prometheus-node-exporter:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/prometheus-pushgateway:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/prometheus-pushgateway:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/prometheus-pushgateway:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/prometheus-server:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/prometheus-server:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/prometheus-server:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/reloader:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/reloader:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/reloader:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/rsyslog:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/rsyslog:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/rsyslog:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/skuba-tooling:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/skuba-tooling:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/skuba-tooling:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-aws:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-aws:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-aws:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-gcp:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-gcp:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-gcp:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-microsoft-azure:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-microsoft-azure:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/velero-plugin-for-microsoft-azure:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/velero-restic-restore-helper:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/velero-restic-restore-helper:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/velero-restic-restore-helper:beta:terminfo-base-6.1-5.6.2",
-            "Container caasp/v5/velero:beta:libncurses6-6.1-5.6.2",
-            "Container caasp/v5/velero:beta:ncurses-utils-6.1-5.6.2",
-            "Container caasp/v5/velero:beta:terminfo-base-6.1-5.6.2",
             "Container ingress-nginx-controller:0.15.0:libncurses6-6.1-5.6.2",
             "Container ingress-nginx-controller:0.15.0:ncurses-utils-6.1-5.6.2",
             "Container ingress-nginx-controller:0.15.0:terminfo-base-6.1-5.6.2",
@@ -3599,6 +3572,9 @@
             "Container suse/sle15:15.2:libncurses6-6.1-5.6.2",
             "Container suse/sle15:15.2:ncurses-utils-6.1-5.6.2",
             "Container suse/sle15:15.2:terminfo-base-6.1-5.6.2",
+            "Container suse/sle15:15.3:libncurses6-6.1-5.6.2",
+            "Container suse/sle15:15.3:ncurses-utils-6.1-5.6.2",
+            "Container suse/sle15:15.3:terminfo-base-6.1-5.6.2",
             "Image SLES15-EC2-CHOST-HVM-BYOS:libncurses6-6.1-5.6.2",
             "Image SLES15-EC2-CHOST-HVM-BYOS:ncurses-utils-6.1-5.6.2",
             "Image SLES15-EC2-CHOST-HVM-BYOS:terminfo-6.1-5.6.2",
@@ -3643,105 +3619,234 @@
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:ncurses-utils-6.1-5.6.2",
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:terminfo-6.1-5.6.2",
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:terminfo-base-6.1-5.6.2",
-            "Image caasp-389-ds-image:libncurses6-6.1-5.6.2",
-            "Image caasp-389-ds-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-389-ds-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-busybox-image:libncurses6-6.1-5.6.2",
-            "Image caasp-busybox-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-busybox-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-caasp-dex-image:libncurses6-6.1-5.6.2",
-            "Image caasp-caasp-dex-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-caasp-dex-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-cert-exporter-image:libncurses6-6.1-5.6.2",
-            "Image caasp-cert-exporter-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-cert-exporter-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-cilium-etcd-operator-image:libncurses6-6.1-5.6.2",
-            "Image caasp-cilium-etcd-operator-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-cilium-etcd-operator-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-cilium-image:libncurses6-6.1-5.6.2",
-            "Image caasp-cilium-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-cilium-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-cilium-init-image:libncurses6-6.1-5.6.2",
-            "Image caasp-cilium-init-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-cilium-init-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-cilium-operator-image:libncurses6-6.1-5.6.2",
-            "Image caasp-cilium-operator-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-cilium-operator-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-cloud-provider-openstack-image:libncurses6-6.1-5.6.2",
-            "Image caasp-cloud-provider-openstack-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-cloud-provider-openstack-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-configmap-reload-image:libncurses6-6.1-5.6.2",
-            "Image caasp-configmap-reload-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-configmap-reload-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-coredns-image:libncurses6-6.1-5.6.2",
-            "Image caasp-coredns-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-coredns-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-curl-image:libncurses6-6.1-5.6.2",
-            "Image caasp-curl-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-curl-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-etcd-image:libncurses6-6.1-5.6.2",
-            "Image caasp-etcd-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-etcd-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-gangway-image:libncurses6-6.1-5.6.2",
-            "Image caasp-gangway-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-gangway-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-grafana-image:libncurses6-6.1-5.6.2",
-            "Image caasp-grafana-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-grafana-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-helm-tiller-image:libncurses6-6.1-5.6.2",
-            "Image caasp-helm-tiller-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-helm-tiller-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-hyperkube-image:libncurses6-6.1-5.6.2",
-            "Image caasp-hyperkube-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-hyperkube-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-k8s-sidecar-image:libncurses6-6.1-5.6.2",
-            "Image caasp-k8s-sidecar-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-k8s-sidecar-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-kube-state-metrics-image:libncurses6-6.1-5.6.2",
-            "Image caasp-kube-state-metrics-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-kube-state-metrics-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-kubernetes-client-image:libncurses6-6.1-5.6.2",
-            "Image caasp-kubernetes-client-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-kubernetes-client-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-kured-image:libncurses6-6.1-5.6.2",
-            "Image caasp-kured-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-kured-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-metrics-server-image:libncurses6-6.1-5.6.2",
-            "Image caasp-metrics-server-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-metrics-server-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-prometheus-alertmanager-image:libncurses6-6.1-5.6.2",
-            "Image caasp-prometheus-alertmanager-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-prometheus-alertmanager-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-prometheus-node-exporter-image:libncurses6-6.1-5.6.2",
-            "Image caasp-prometheus-node-exporter-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-prometheus-node-exporter-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-prometheus-pushgateway-image:libncurses6-6.1-5.6.2",
-            "Image caasp-prometheus-pushgateway-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-prometheus-pushgateway-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-prometheus-server-image:libncurses6-6.1-5.6.2",
-            "Image caasp-prometheus-server-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-prometheus-server-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-rsyslog-image:libncurses6-6.1-5.6.2",
-            "Image caasp-rsyslog-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-rsyslog-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-test-update-image:libncurses6-6.1-5.6.2",
-            "Image caasp-test-update-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-test-update-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-velero-image:libncurses6-6.1-5.6.2",
-            "Image caasp-velero-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-velero-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-aws-image:libncurses6-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-aws-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-aws-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-gcp-image:libncurses6-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-gcp-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-gcp-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-microsoft-azure-image:libncurses6-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-microsoft-azure-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-velero-plugin-for-microsoft-azure-image:terminfo-base-6.1-5.6.2",
-            "Image caasp-velero-restic-restore-helper-image:libncurses6-6.1-5.6.2",
-            "Image caasp-velero-restic-restore-helper-image:ncurses-utils-6.1-5.6.2",
-            "Image caasp-velero-restic-restore-helper-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-389-ds-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-389-ds-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-389-ds-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-busybox-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-busybox-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-busybox-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-caasp-dex-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-caasp-dex-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-caasp-dex-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-cert-exporter-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-cert-exporter-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-cert-exporter-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-etcd-operator-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-etcd-operator-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-etcd-operator-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-init-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-init-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-init-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-operator-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-operator-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-cilium-operator-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-cloud-provider-openstack-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-cloud-provider-openstack-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-cloud-provider-openstack-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-configmap-reload-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-configmap-reload-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-configmap-reload-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-coredns-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-coredns-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-coredns-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-curl-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-curl-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-curl-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-etcd-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-etcd-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-etcd-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-gangway-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-gangway-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-gangway-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-grafana-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-grafana-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-grafana-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-helm-tiller-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-helm-tiller-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-helm-tiller-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-hyperkube-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-hyperkube-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-hyperkube-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-k8s-sidecar-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-k8s-sidecar-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-k8s-sidecar-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-kube-state-metrics-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-kube-state-metrics-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-kube-state-metrics-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-kubernetes-client-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-kubernetes-client-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-kubernetes-client-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-kured-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-kured-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-kured-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-metrics-server-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-metrics-server-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-metrics-server-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-alertmanager-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-alertmanager-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-alertmanager-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-node-exporter-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-node-exporter-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-node-exporter-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-pushgateway-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-pushgateway-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-pushgateway-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-server-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-server-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-prometheus-server-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-rsyslog-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-rsyslog-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-rsyslog-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-test-update-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-test-update-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-test-update-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-velero-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-velero-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-velero-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-aws-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-aws-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-aws-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-gcp-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-gcp-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-gcp-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-microsoft-azure-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-microsoft-azure-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-velero-plugin-for-microsoft-azure-image:terminfo-base-6.1-5.6.2",
+            "Image caasp4/caasp-velero-restic-restore-helper-image:libncurses6-6.1-5.6.2",
+            "Image caasp4/caasp-velero-restic-restore-helper-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp4/caasp-velero-restic-restore-helper-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-389-ds-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-389-ds-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-389-ds-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-busybox-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-busybox-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-busybox-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-caasp-dex-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-caasp-dex-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-caasp-dex-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-cainjector-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-cainjector-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-cainjector-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-controller-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-controller-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-controller-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-webhook-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-webhook-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-cert-manager-webhook-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-etcd-operator-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-etcd-operator-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-etcd-operator-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-operator-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-operator-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-cilium-operator-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-configmap-reload-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-configmap-reload-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-configmap-reload-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-coredns-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-coredns-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-coredns-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-curl-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-curl-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-curl-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-default-http-backend-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-default-http-backend-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-default-http-backend-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-etcd-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-etcd-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-etcd-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-gangway-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-gangway-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-gangway-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-grafana-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-grafana-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-grafana-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-helm-tiller-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-helm-tiller-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-helm-tiller-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-ingress-nginx-controller-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-ingress-nginx-controller-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-ingress-nginx-controller-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-istio-base-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-istio-base-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-istio-base-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-istio-pilot-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-istio-pilot-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-istio-pilot-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-istio-proxyv2-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-istio-proxyv2-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-istio-proxyv2-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-k8s-sidecar-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-k8s-sidecar-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-k8s-sidecar-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kube-apiserver-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kube-apiserver-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kube-apiserver-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kube-controller-manager-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kube-controller-manager-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kube-controller-manager-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kube-proxy-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kube-proxy-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kube-proxy-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kube-scheduler-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kube-scheduler-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kube-scheduler-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kube-state-metrics-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kube-state-metrics-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kube-state-metrics-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kubernetes-client-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kubernetes-client-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kubernetes-client-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kucero-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kucero-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kucero-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-kured-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-kured-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-kured-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-metrics-server-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-metrics-server-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-metrics-server-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-alertmanager-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-alertmanager-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-alertmanager-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-node-exporter-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-node-exporter-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-node-exporter-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-pushgateway-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-pushgateway-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-pushgateway-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-server-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-server-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-prometheus-server-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-reloader-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-reloader-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-reloader-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-rsyslog-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-rsyslog-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-rsyslog-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-skuba-tooling-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-skuba-tooling-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-skuba-tooling-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-velero-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-velero-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-velero-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-aws-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-aws-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-aws-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-gcp-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-gcp-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-gcp-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-microsoft-azure-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-microsoft-azure-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-velero-plugin-for-microsoft-azure-image:terminfo-base-6.1-5.6.2",
+            "Image caasp45/caasp-velero-restic-restore-helper-image:libncurses6-6.1-5.6.2",
+            "Image caasp45/caasp-velero-restic-restore-helper-image:ncurses-utils-6.1-5.6.2",
+            "Image caasp45/caasp-velero-restic-restore-helper-image:terminfo-base-6.1-5.6.2",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:libncurses6-32bit-6.1-5.6.2",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:libncurses6-6.1-5.6.2",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:ncurses-6.1-5.6.2",

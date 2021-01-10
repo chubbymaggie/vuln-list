@@ -35,21 +35,6 @@
     "Relationships": [
       {
         "ProductReference": "libsystemd0-228-150.66.4",
-        "RelatesToProductReference": "Container sles12/caasp-dex:2.7.1",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libudev1-228-150.66.4",
-        "RelatesToProductReference": "Container sles12/caasp-dex:2.7.1",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-228-150.66.4",
-        "RelatesToProductReference": "Container sles12/caasp-dex:2.7.1",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libsystemd0-228-150.66.4",
         "RelatesToProductReference": "Container suse/sles12sp4:latest",
         "RelationType": "Default Component Of"
       },
@@ -309,13 +294,53 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libsystemd0-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
+        "ProductReference": "libsystemd0-32bit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libsystemd0-32bit-228-150.66.4",
+        "ProductReference": "libudev-devel-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libudev1-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libudev1-32bit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-32bit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-bash-completion-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-sysvinit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "udev-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsystemd0-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -325,17 +350,7 @@
       },
       {
         "ProductReference": "libudev-devel-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libudev-devel-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libudev1-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -345,17 +360,7 @@
       },
       {
         "ProductReference": "libudev1-32bit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libudev1-32bit-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -365,17 +370,7 @@
       },
       {
         "ProductReference": "systemd-32bit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-32bit-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-bash-completion-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -385,17 +380,7 @@
       },
       {
         "ProductReference": "systemd-sysvinit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-sysvinit-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "udev-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -409,23 +394,53 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libsystemd0-32bit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libudev1-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libudev1-32bit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-32bit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-bash-completion-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-sysvinit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "udev-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "libsystemd0-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libsystemd0-32bit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libsystemd0-32bit-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libudev1-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -435,17 +450,7 @@
       },
       {
         "ProductReference": "libudev1-32bit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libudev1-32bit-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -455,27 +460,12 @@
       },
       {
         "ProductReference": "systemd-32bit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-32bit-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "systemd-bash-completion-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-bash-completion-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-sysvinit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -485,11 +475,6 @@
       },
       {
         "ProductReference": "udev-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "udev-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
@@ -499,23 +484,53 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libsystemd0-32bit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libudev1-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libudev1-32bit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-32bit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-bash-completion-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-sysvinit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "udev-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "libsystemd0-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libsystemd0-32bit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libsystemd0-32bit-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libudev1-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
@@ -525,17 +540,7 @@
       },
       {
         "ProductReference": "libudev1-32bit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libudev1-32bit-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
@@ -545,27 +550,12 @@
       },
       {
         "ProductReference": "systemd-32bit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-32bit-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "systemd-bash-completion-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-bash-completion-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-sysvinit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
@@ -575,11 +565,6 @@
       },
       {
         "ProductReference": "udev-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "udev-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
         "RelationType": "Default Component Of"
       },
@@ -589,23 +574,53 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libsystemd0-32bit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libudev1-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libudev1-32bit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-32bit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-bash-completion-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "systemd-sysvinit-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "udev-228-150.66.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "libsystemd0-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libsystemd0-32bit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libsystemd0-32bit-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libudev1-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -615,17 +630,7 @@
       },
       {
         "ProductReference": "libudev1-32bit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libudev1-32bit-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -635,17 +640,7 @@
       },
       {
         "ProductReference": "systemd-32bit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-32bit-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-bash-completion-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -655,17 +650,7 @@
       },
       {
         "ProductReference": "systemd-sysvinit-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "systemd-sysvinit-228-150.66.4",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "udev-228-150.66.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -763,9 +748,6 @@
         {
           "Type": "Fixed",
           "ProductID": [
-            "Container sles12/caasp-dex:2.7.1:libsystemd0-228-150.66.4",
-            "Container sles12/caasp-dex:2.7.1:libudev1-228-150.66.4",
-            "Container sles12/caasp-dex:2.7.1:systemd-228-150.66.4",
             "Container suse/sles12sp4:latest:libsystemd0-228-150.66.4",
             "Container suse/sles12sp4:latest:libudev1-228-150.66.4",
             "Openstack Cloud Magnum Orchestration 7:libsystemd0-228-150.66.4",
@@ -929,9 +911,6 @@
         {
           "Type": "Fixed",
           "ProductID": [
-            "Container sles12/caasp-dex:2.7.1:libsystemd0-228-150.66.4",
-            "Container sles12/caasp-dex:2.7.1:libudev1-228-150.66.4",
-            "Container sles12/caasp-dex:2.7.1:systemd-228-150.66.4",
             "Container suse/sles12sp4:latest:libsystemd0-228-150.66.4",
             "Container suse/sles12sp4:latest:libudev1-228-150.66.4",
             "Openstack Cloud Magnum Orchestration 7:libsystemd0-228-150.66.4",
@@ -1095,9 +1074,6 @@
         {
           "Type": "Fixed",
           "ProductID": [
-            "Container sles12/caasp-dex:2.7.1:libsystemd0-228-150.66.4",
-            "Container sles12/caasp-dex:2.7.1:libudev1-228-150.66.4",
-            "Container sles12/caasp-dex:2.7.1:systemd-228-150.66.4",
             "Container suse/sles12sp4:latest:libsystemd0-228-150.66.4",
             "Container suse/sles12sp4:latest:libudev1-228-150.66.4",
             "Openstack Cloud Magnum Orchestration 7:libsystemd0-228-150.66.4",

@@ -35,11 +35,6 @@
     "Relationships": [
       {
         "ProductReference": "glibc-2.22-62.22.5",
-        "RelatesToProductReference": "Container sles12/caasp-dex:2.7.1",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-2.22-62.22.5",
         "RelatesToProductReference": "SUSE OpenStack Cloud 7",
         "RelationType": "Default Component Of"
       },
@@ -284,23 +279,68 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "glibc-32bit-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-devel-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-devel-32bit-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-html-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-i18ndata-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-info-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-locale-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-locale-32bit-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-profile-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-profile-32bit-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "nscd-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "glibc-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "glibc-32bit-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-32bit-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-devel-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -310,17 +350,7 @@
       },
       {
         "ProductReference": "glibc-devel-32bit-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-devel-32bit-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-html-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -330,17 +360,7 @@
       },
       {
         "ProductReference": "glibc-i18ndata-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-i18ndata-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-info-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -350,17 +370,7 @@
       },
       {
         "ProductReference": "glibc-locale-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-locale-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-locale-32bit-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -370,17 +380,7 @@
       },
       {
         "ProductReference": "glibc-profile-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-profile-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-profile-32bit-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -390,11 +390,6 @@
       },
       {
         "ProductReference": "nscd-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "nscd-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
@@ -404,23 +399,68 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "glibc-32bit-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-devel-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-devel-32bit-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-html-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-i18ndata-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-info-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-locale-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-locale-32bit-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-profile-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-profile-32bit-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "nscd-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "glibc-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "glibc-32bit-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-32bit-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-devel-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -430,17 +470,7 @@
       },
       {
         "ProductReference": "glibc-devel-32bit-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-devel-32bit-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-html-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -450,17 +480,7 @@
       },
       {
         "ProductReference": "glibc-i18ndata-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-i18ndata-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-info-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -470,17 +490,7 @@
       },
       {
         "ProductReference": "glibc-locale-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-locale-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-locale-32bit-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -490,17 +500,7 @@
       },
       {
         "ProductReference": "glibc-profile-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-profile-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-profile-32bit-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -510,11 +510,6 @@
       },
       {
         "ProductReference": "nscd-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "nscd-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
@@ -524,23 +519,68 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "glibc-32bit-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-devel-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-devel-32bit-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-html-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-i18ndata-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-info-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-locale-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-locale-32bit-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-profile-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-profile-32bit-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "nscd-2.22-62.22.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "glibc-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "glibc-32bit-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-32bit-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-devel-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -550,17 +590,7 @@
       },
       {
         "ProductReference": "glibc-devel-32bit-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-devel-32bit-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-html-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -570,17 +600,7 @@
       },
       {
         "ProductReference": "glibc-i18ndata-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-i18ndata-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-info-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -590,17 +610,7 @@
       },
       {
         "ProductReference": "glibc-locale-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-locale-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-locale-32bit-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -610,27 +620,12 @@
       },
       {
         "ProductReference": "glibc-profile-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-profile-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "glibc-profile-32bit-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "glibc-profile-32bit-2.22-62.22.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "nscd-2.22-62.22.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -798,7 +793,6 @@
         {
           "Type": "Fixed",
           "ProductID": [
-            "Container sles12/caasp-dex:2.7.1:glibc-2.22-62.22.5",
             "SUSE Enterprise Storage 4:glibc-2.22-62.22.5",
             "SUSE Enterprise Storage 4:glibc-32bit-2.22-62.22.5",
             "SUSE Enterprise Storage 4:glibc-devel-2.22-62.22.5",
@@ -975,7 +969,6 @@
         {
           "Type": "Fixed",
           "ProductID": [
-            "Container sles12/caasp-dex:2.7.1:glibc-2.22-62.22.5",
             "SUSE Enterprise Storage 4:glibc-2.22-62.22.5",
             "SUSE Enterprise Storage 4:glibc-32bit-2.22-62.22.5",
             "SUSE Enterprise Storage 4:glibc-devel-2.22-62.22.5",

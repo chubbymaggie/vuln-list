@@ -1144,7 +1144,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1188,7 +1188,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2160,7 +2160,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2563,6 +2563,10 @@
         {
           "URL": "https://www.suse.com/security/cve/CVE-2020-7044.html",
           "Description": "CVE-2020-7044"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1161052",
+          "Description": "SUSE Bug 1161052"
         }
       ],
       "ProductStatuses": [

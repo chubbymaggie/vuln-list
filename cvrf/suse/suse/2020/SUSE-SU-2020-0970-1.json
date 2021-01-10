@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2020:0970-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2020-04-09T10:49:55Z",
-    "CurrentReleaseDate": "2020-04-09T10:49:55Z",
+    "InitialReleaseDate": "2020-04-09T10:49:51Z",
+    "CurrentReleaseDate": "2020-04-09T10:49:51Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2020-04-09T10:49:55Z",
+        "Date": "2020-04-09T10:49:51Z",
         "Description": "current"
       }
     ]
@@ -59,33 +59,33 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "djvulibre-3.5.25.3-5.6.10",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "libdjvulibre21-3.5.25.3-5.6.10",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "djvulibre-3.5.25.3-5.6.10",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "libdjvulibre21-3.5.25.3-5.6.10",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "djvulibre-3.5.25.3-5.6.10",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libdjvulibre21-3.5.25.3-5.6.10",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "djvulibre-3.5.25.3-5.6.10",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libdjvulibre21-3.5.25.3-5.6.10",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
         "RelationType": "Default Component Of"
       },
       {

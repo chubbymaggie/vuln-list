@@ -39,23 +39,38 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "lame-doc-3.100-6.1",
+        "RelatesToProductReference": "SUSE Package Hub for SUSE Linux Enterprise 12 SP2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "lame-mp3rtp-3.100-6.1",
+        "RelatesToProductReference": "SUSE Package Hub for SUSE Linux Enterprise 12 SP2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libmp3lame-devel-3.100-6.1",
+        "RelatesToProductReference": "SUSE Package Hub for SUSE Linux Enterprise 12 SP2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libmp3lame0-3.100-6.1",
+        "RelatesToProductReference": "SUSE Package Hub for SUSE Linux Enterprise 12 SP2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libmp3lame0-32bit-3.100-7.1",
+        "RelatesToProductReference": "SUSE Package Hub for SUSE Linux Enterprise 12 SP2",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "lame-3.100-6.1",
         "RelatesToProductReference": "openSUSE Leap 42.3",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "lame-doc-3.100-6.1",
-        "RelatesToProductReference": "SUSE Package Hub for SUSE Linux Enterprise 12 SP2",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "lame-doc-3.100-6.1",
         "RelatesToProductReference": "openSUSE Leap 42.3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "lame-mp3rtp-3.100-6.1",
-        "RelatesToProductReference": "SUSE Package Hub for SUSE Linux Enterprise 12 SP2",
         "RelationType": "Default Component Of"
       },
       {
@@ -65,27 +80,12 @@
       },
       {
         "ProductReference": "libmp3lame-devel-3.100-6.1",
-        "RelatesToProductReference": "SUSE Package Hub for SUSE Linux Enterprise 12 SP2",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libmp3lame-devel-3.100-6.1",
         "RelatesToProductReference": "openSUSE Leap 42.3",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libmp3lame0-3.100-6.1",
-        "RelatesToProductReference": "SUSE Package Hub for SUSE Linux Enterprise 12 SP2",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libmp3lame0-3.100-6.1",
         "RelatesToProductReference": "openSUSE Leap 42.3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libmp3lame0-32bit-3.100-7.1",
-        "RelatesToProductReference": "SUSE Package Hub for SUSE Linux Enterprise 12 SP2",
         "RelationType": "Default Component Of"
       },
       {
@@ -148,7 +148,7 @@
     },
     {
       "CVE": "CVE-2015-9101",
-      "Description": "The fill_buffer_resample function in util.c in libmp3lame.a in LAME 3.99.5 allows remote attackers to cause a denial of service (heap-based buffer over-read and application crash) via a crafted audio file.",
+      "Description": "The fill_buffer_resample function in util.c in libmp3lame.a in LAME 3.98.4, 3.98.2, 3.98 and 3.99.5 allows remote attackers to cause a denial of service (heap-based buffer over-read and application crash) via a crafted audio file.",
       "Threats": [
         {
           "Type": "Impact",

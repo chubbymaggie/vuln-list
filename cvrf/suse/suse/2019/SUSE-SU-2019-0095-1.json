@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2019:0095-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2019-01-15T13:58:45Z",
-    "CurrentReleaseDate": "2019-01-15T13:58:45Z",
+    "InitialReleaseDate": "2019-01-15T13:58:44Z",
+    "CurrentReleaseDate": "2019-01-15T13:58:44Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2019-01-15T13:58:45Z",
+        "Date": "2019-01-15T13:58:44Z",
         "Description": "current"
       }
     ]
@@ -39,23 +39,38 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "kernel-azure-base-4.4.162-4.19.2",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-azure-devel-4.4.162-4.19.2",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-devel-azure-4.4.162-4.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-source-azure-4.4.162-4.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-syms-azure-4.4.162-4.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "kernel-azure-4.4.162-4.19.2",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "kernel-azure-base-4.4.162-4.19.2",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-azure-base-4.4.162-4.19.2",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-azure-devel-4.4.162-4.19.2",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
@@ -65,27 +80,12 @@
       },
       {
         "ProductReference": "kernel-devel-azure-4.4.162-4.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-devel-azure-4.4.162-4.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "kernel-source-azure-4.4.162-4.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-source-azure-4.4.162-4.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-syms-azure-4.4.162-4.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {

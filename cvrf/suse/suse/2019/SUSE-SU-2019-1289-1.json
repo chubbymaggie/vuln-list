@@ -129,23 +129,88 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "kernel-default-base-3.12.74-60.64.110.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-default-devel-3.12.74-60.64.110.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-default-man-3.12.74-60.64.110.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-devel-3.12.74-60.64.110.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-macros-3.12.74-60.64.110.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-source-3.12.74-60.64.110.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-syms-3.12.74-60.64.110.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-xen-3.12.74-60.64.110.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-xen-base-3.12.74-60.64.110.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-xen-devel-3.12.74-60.64.110.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kgraft-patch-3_12_74-60_64_110-default-1-2.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kgraft-patch-3_12_74-60_64_110-xen-1-2.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kgraft-patch-SLE12-SP1_Update_33-1-2.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "lttng-modules-2.7.0-4.4.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "lttng-modules-kmp-default-2.7.0_k3.12.74_60.64.110-4.4.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "kernel-default-3.12.74-60.64.110.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "kernel-default-base-3.12.74-60.64.110.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-default-base-3.12.74-60.64.110.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-default-devel-3.12.74-60.64.110.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -155,17 +220,7 @@
       },
       {
         "ProductReference": "kernel-default-man-3.12.74-60.64.110.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-default-man-3.12.74-60.64.110.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-devel-3.12.74-60.64.110.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -175,17 +230,7 @@
       },
       {
         "ProductReference": "kernel-macros-3.12.74-60.64.110.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-macros-3.12.74-60.64.110.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-source-3.12.74-60.64.110.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -195,17 +240,7 @@
       },
       {
         "ProductReference": "kernel-syms-3.12.74-60.64.110.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-syms-3.12.74-60.64.110.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-xen-3.12.74-60.64.110.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -215,17 +250,7 @@
       },
       {
         "ProductReference": "kernel-xen-base-3.12.74-60.64.110.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-xen-base-3.12.74-60.64.110.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-xen-devel-3.12.74-60.64.110.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -235,17 +260,7 @@
       },
       {
         "ProductReference": "kgraft-patch-3_12_74-60_64_110-default-1-2.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kgraft-patch-3_12_74-60_64_110-default-1-2.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kgraft-patch-3_12_74-60_64_110-xen-1-2.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -255,27 +270,12 @@
       },
       {
         "ProductReference": "kgraft-patch-SLE12-SP1_Update_33-1-2.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kgraft-patch-SLE12-SP1_Update_33-1-2.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "lttng-modules-2.7.0-4.4.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "lttng-modules-2.7.0-4.4.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "lttng-modules-kmp-default-2.7.0_k3.12.74_60.64.110-4.4.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -1733,7 +1733,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -1811,7 +1811,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -2335,7 +2335,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -2413,7 +2413,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -2745,7 +2745,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "low"
         }
       ],
       "References": [
@@ -2819,7 +2819,7 @@
     },
     {
       "CVE": "CVE-2019-8564",
-      "Description": "** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem.  When the candidate has been publicized, the details for this candidate will be provided.",
+      "Description": "A logic issue was addressed with improved validation. This issue is fixed in macOS Mojave 10.14.4, Security Update 2019-002 High Sierra, Security Update 2019-002 Sierra. An attacker in a privileged network position can modify driver state.",
       "Threats": [
         {
           "Type": "Impact",
@@ -2905,7 +2905,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [

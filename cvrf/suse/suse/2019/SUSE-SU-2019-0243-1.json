@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2019:0243-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2019-02-05T14:40:15Z",
-    "CurrentReleaseDate": "2019-02-05T14:40:15Z",
+    "InitialReleaseDate": "2019-02-05T14:40:13Z",
+    "CurrentReleaseDate": "2019-02-05T14:40:13Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2019-02-05T14:40:15Z",
+        "Date": "2019-02-05T14:40:13Z",
         "Description": "current"
       }
     ]
@@ -164,18 +164,8 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libpython3_4m1_0-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "python3-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -184,6 +174,16 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libpython3_4m1_0-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "python3-base-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12-LTSS",
         "RelationType": "Default Component Of"
@@ -194,18 +194,8 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libpython3_4m1_0-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "python3-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -214,6 +204,16 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libpython3_4m1_0-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "python3-base-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
         "RelationType": "Default Component Of"
@@ -224,18 +224,8 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libpython3_4m1_0-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "python3-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -244,16 +234,26 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "python3-base-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "python3-curses-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libpython3_4m1_0-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-base-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "python3-curses-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
         "RelationType": "Default Component Of"
@@ -264,18 +264,8 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libpython3_4m1_0-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "python3-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -284,16 +274,26 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "python3-base-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "python3-curses-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libpython3_4m1_0-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-base-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "python3-curses-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
         "RelationType": "Default Component Of"
@@ -304,13 +304,23 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libpython3_4m1_0-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
+        "ProductReference": "python3-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "python3-3.4.6-25.21.1",
+        "ProductReference": "python3-base-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-curses-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libpython3_4m1_0-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
@@ -320,17 +330,7 @@
       },
       {
         "ProductReference": "python3-base-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-base-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-curses-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
@@ -340,6 +340,21 @@
       },
       {
         "ProductReference": "libpython3_4m1_0-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-base-3.4.6-25.21.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-curses-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
@@ -350,27 +365,12 @@
       },
       {
         "ProductReference": "python3-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "python3-base-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-base-3.4.6-25.21.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-curses-3.4.6-25.21.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -417,7 +417,7 @@
   "Vulnerabilities": [
     {
       "CVE": "CVE-2018-20406",
-      "Description": "Modules/_pickle.c in Python before 3.7.1 has an integer overflow via a large LONG_BINPUT value that is mishandled during a \"resize to twice the size\" attempt. This issue might cause memory exhaustion, but is only relevant if the pickle format is used for serializing tens or hundreds of gigabytes of data.",
+      "Description": "Modules/_pickle.c in Python before 3.7.1 has an integer overflow via a large LONG_BINPUT value that is mishandled during a \"resize to twice the size\" attempt. This issue might cause memory exhaustion, but is only relevant if the pickle format is used for serializing tens or hundreds of gigabytes of data. This issue is fixed in: v3.4.10, v3.4.10rc1; v3.5.10, v3.5.10rc1, v3.5.7, v3.5.7rc1, v3.5.8, v3.5.8rc1, v3.5.8rc2, v3.5.9; v3.6.10, v3.6.10rc1, v3.6.11, v3.6.11rc1, v3.6.12, v3.6.7, v3.6.7rc1, v3.6.7rc2, v3.6.8, v3.6.8rc1, v3.6.9, v3.6.9rc1; v3.7.1, v3.7.1rc1, v3.7.1rc2, v3.7.2, v3.7.2rc1, v3.7.3, v3.7.3rc1, v3.7.4, v3.7.4rc1, v3.7.4rc2, v3.7.5, v3.7.5rc1, v3.7.6, v3.7.6rc1, v3.7.7, v3.7.7rc1, v3.7.8, v3.7.8rc1, v3.7.9.",
       "Threats": [
         {
           "Type": "Impact",

@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2019:0955-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2019-04-16T11:06:39Z",
-    "CurrentReleaseDate": "2019-04-16T11:06:39Z",
+    "InitialReleaseDate": "2019-04-16T11:06:38Z",
+    "CurrentReleaseDate": "2019-04-16T11:06:38Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2019-04-16T11:06:39Z",
+        "Date": "2019-04-16T11:06:38Z",
         "Description": "current"
       }
     ]
@@ -49,13 +49,13 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "kgraft-patch-4_4_121-92_104-default-2-2.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
+        "ProductReference": "kgraft-patch-SLE12-SP2_Update_28-2-2.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "kgraft-patch-SLE12-SP2_Update_28-2-2.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "ProductReference": "kgraft-patch-4_4_121-92_104-default-2-2.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {

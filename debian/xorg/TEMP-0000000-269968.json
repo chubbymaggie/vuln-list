@@ -3,7 +3,7 @@
     "bullseye": {
       "fixed_version": "1:7.6+10",
       "repositories": {
-        "bullseye": "1:7.7+20"
+        "bullseye": "1:7.7+21"
       },
       "status": "resolved",
       "urgency": "low"
@@ -19,7 +19,7 @@
     "sid": {
       "fixed_version": "1:7.6+10",
       "repositories": {
-        "sid": "1:7.7+20"
+        "sid": "1:7.7+21"
       },
       "status": "resolved",
       "urgency": "low"

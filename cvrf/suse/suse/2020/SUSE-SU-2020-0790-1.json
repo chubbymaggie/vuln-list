@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2020:0790-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2020-03-25T12:24:46Z",
-    "CurrentReleaseDate": "2020-03-25T12:24:46Z",
+    "InitialReleaseDate": "2020-03-25T12:24:45Z",
+    "CurrentReleaseDate": "2020-03-25T12:24:45Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2020-03-25T12:24:46Z",
+        "Date": "2020-03-25T12:24:45Z",
         "Description": "current"
       }
     ]
@@ -69,23 +69,33 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "python-cryptography-2.1.4-3.15.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python-xattr-0.7.5-3.2.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-cffi-1.11.2-2.19.2",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-cryptography-2.1.4-3.15.5",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "python-cffi-1.11.2-2.19.2",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "python-cryptography-2.1.4-3.15.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python-cryptography-2.1.4-3.15.5",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python-xattr-0.7.5-3.2.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -95,17 +105,7 @@
       },
       {
         "ProductReference": "python3-cffi-1.11.2-2.19.2",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-cffi-1.11.2-2.19.2",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-cryptography-2.1.4-3.15.5",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -136,7 +136,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [

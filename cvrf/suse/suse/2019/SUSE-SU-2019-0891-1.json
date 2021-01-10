@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2019:0891-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2019-04-05T11:31:57Z",
-    "CurrentReleaseDate": "2019-04-05T11:31:57Z",
+    "InitialReleaseDate": "2019-04-05T11:31:56Z",
+    "CurrentReleaseDate": "2019-04-05T11:31:56Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2019-04-05T11:31:57Z",
+        "Date": "2019-04-05T11:31:56Z",
         "Description": "current"
       }
     ]
@@ -64,23 +64,38 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "xen-doc-html-4.11.1_04-2.6.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "xen-libs-4.11.1_04-2.6.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "xen-libs-32bit-4.11.1_04-2.6.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "xen-tools-4.11.1_04-2.6.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "xen-tools-domU-4.11.1_04-2.6.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "xen-4.11.1_04-2.6.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "xen-doc-html-4.11.1_04-2.6.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "xen-doc-html-4.11.1_04-2.6.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "xen-libs-4.11.1_04-2.6.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -90,27 +105,12 @@
       },
       {
         "ProductReference": "xen-libs-32bit-4.11.1_04-2.6.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "xen-libs-32bit-4.11.1_04-2.6.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "xen-tools-4.11.1_04-2.6.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "xen-tools-4.11.1_04-2.6.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "xen-tools-domU-4.11.1_04-2.6.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {

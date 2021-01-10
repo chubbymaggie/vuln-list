@@ -99,13 +99,18 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "jasper-1.900.14-194.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1",
+        "ProductReference": "libjasper1-1.900.14-194.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libjasper1-1.900.14-194.1",
+        "ProductReference": "libjasper1-32bit-1.900.14-194.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "jasper-1.900.14-194.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1",
         "RelationType": "Default Component Of"
       },
       {
@@ -115,16 +120,21 @@
       },
       {
         "ProductReference": "libjasper1-32bit-1.900.14-194.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libjasper1-32bit-1.900.14-194.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "jasper-1.900.14-194.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libjasper1-1.900.14-194.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libjasper1-32bit-1.900.14-194.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2",
         "RelationType": "Default Component Of"
       },
@@ -135,17 +145,7 @@
       },
       {
         "ProductReference": "libjasper1-1.900.14-194.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libjasper1-1.900.14-194.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libjasper1-32bit-1.900.14-194.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2",
         "RelationType": "Default Component Of"
       },
       {
@@ -187,6 +187,10 @@
         {
           "URL": "https://bugzilla.suse.com/1029497",
           "Description": "SUSE Bug 1029497"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1178702",
+          "Description": "SUSE Bug 1178702"
         }
       ],
       "ProductStatuses": [
@@ -239,6 +243,10 @@
         {
           "URL": "https://bugzilla.suse.com/1015400",
           "Description": "SUSE Bug 1015400"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1178702",
+          "Description": "SUSE Bug 1178702"
         }
       ],
       "ProductStatuses": [
@@ -294,6 +302,10 @@
         {
           "URL": "https://bugzilla.suse.com/1018088",
           "Description": "SUSE Bug 1018088"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1178702",
+          "Description": "SUSE Bug 1178702"
         }
       ],
       "ProductStatuses": [
@@ -361,6 +373,10 @@
         {
           "URL": "https://bugzilla.suse.com/1020460",
           "Description": "SUSE Bug 1020460"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1178702",
+          "Description": "SUSE Bug 1178702"
         }
       ],
       "ProductStatuses": [
@@ -416,6 +432,10 @@
         {
           "URL": "https://bugzilla.suse.com/1021868",
           "Description": "SUSE Bug 1021868"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1178702",
+          "Description": "SUSE Bug 1178702"
         }
       ],
       "ProductStatuses": [

@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2019:0209-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2019-01-31T08:41:24Z",
-    "CurrentReleaseDate": "2019-01-31T08:41:24Z",
+    "InitialReleaseDate": "2019-01-31T08:41:23Z",
+    "CurrentReleaseDate": "2019-01-31T08:41:23Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2019-01-31T08:41:24Z",
+        "Date": "2019-01-31T08:41:23Z",
         "Description": "current"
       }
     ]
@@ -35,6 +35,11 @@
     "Relationships": [
       {
         "ProductReference": "rsyslog-8.24.0-3.19.1",
+        "RelatesToProductReference": "Container caasp/v4/haproxy:beta1",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-8.24.0-3.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Desktop 12 SP3",
         "RelationType": "Default Component Of"
       },
@@ -49,23 +54,58 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "rsyslog-diag-tools-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-doc-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-module-gssapi-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-module-gtls-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-module-mysql-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-module-pgsql-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-module-relp-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-module-snmp-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-module-udpspoof-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "rsyslog-8.24.0-3.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "rsyslog-diag-tools-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-diag-tools-8.24.0-3.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-doc-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
@@ -75,17 +115,7 @@
       },
       {
         "ProductReference": "rsyslog-module-gssapi-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-module-gssapi-8.24.0-3.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-module-gtls-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
@@ -95,17 +125,7 @@
       },
       {
         "ProductReference": "rsyslog-module-mysql-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-module-mysql-8.24.0-3.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-module-pgsql-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
@@ -115,17 +135,7 @@
       },
       {
         "ProductReference": "rsyslog-module-relp-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-module-relp-8.24.0-3.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-module-snmp-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
@@ -135,11 +145,6 @@
       },
       {
         "ProductReference": "rsyslog-module-udpspoof-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-module-udpspoof-8.24.0-3.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
         "RelationType": "Default Component Of"
       },
@@ -149,23 +154,58 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "rsyslog-diag-tools-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-doc-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-module-gssapi-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-module-gtls-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-module-mysql-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-module-pgsql-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-module-relp-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-module-snmp-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "rsyslog-module-udpspoof-8.24.0-3.19.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "rsyslog-8.24.0-3.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "rsyslog-diag-tools-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-diag-tools-8.24.0-3.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-doc-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -175,17 +215,7 @@
       },
       {
         "ProductReference": "rsyslog-module-gssapi-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-module-gssapi-8.24.0-3.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-module-gtls-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -195,17 +225,7 @@
       },
       {
         "ProductReference": "rsyslog-module-mysql-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-module-mysql-8.24.0-3.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-module-pgsql-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -215,27 +235,12 @@
       },
       {
         "ProductReference": "rsyslog-module-relp-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-module-relp-8.24.0-3.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "rsyslog-module-snmp-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-module-snmp-8.24.0-3.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "rsyslog-module-udpspoof-8.24.0-3.19.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -283,6 +288,7 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Container caasp/v4/haproxy:beta1:rsyslog-8.24.0-3.19.1",
             "SUSE Linux Enterprise Desktop 12 SP3:rsyslog-8.24.0-3.19.1",
             "SUSE Linux Enterprise Desktop 12 SP4:rsyslog-8.24.0-3.19.1",
             "SUSE Linux Enterprise Server 12 SP3:rsyslog-8.24.0-3.19.1",

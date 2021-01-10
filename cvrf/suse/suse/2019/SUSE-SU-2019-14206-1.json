@@ -39,13 +39,13 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libssh2-1-1.4.3-17.12.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 11 SP4-LTSS",
+        "ProductReference": "libssh2_org-1.4.3-17.12.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 11 SP4-LTSS",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libssh2_org-1.4.3-17.12.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 11 SP4-LTSS",
+        "ProductReference": "libssh2-1-1.4.3-17.12.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 11 SP4-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -87,6 +87,10 @@
         {
           "URL": "https://bugzilla.suse.com/1154862",
           "Description": "SUSE Bug 1154862"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1171566",
+          "Description": "SUSE Bug 1171566"
         }
       ],
       "ProductStatuses": [

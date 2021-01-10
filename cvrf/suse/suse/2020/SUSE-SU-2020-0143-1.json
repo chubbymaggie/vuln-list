@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2020:0143-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2020-01-20T15:10:46Z",
-    "CurrentReleaseDate": "2020-01-20T15:10:46Z",
+    "InitialReleaseDate": "2020-01-20T15:10:38Z",
+    "CurrentReleaseDate": "2020-01-20T15:10:38Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2020-01-20T15:10:46Z",
+        "Date": "2020-01-20T15:10:38Z",
         "Description": "current"
       }
     ]
@@ -114,13 +114,13 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libvpx-1.6.1-6.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
+        "ProductReference": "libvpx4-1.6.1-6.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libvpx4-1.6.1-6.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "ProductReference": "libvpx-1.6.1-6.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
         "RelationType": "Default Component Of"
       },
       {

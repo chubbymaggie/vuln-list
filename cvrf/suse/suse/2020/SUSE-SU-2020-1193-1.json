@@ -35,6 +35,11 @@
     "Relationships": [
       {
         "ProductReference": "libldap-2_4-2-2.4.41-18.68.1",
+        "RelatesToProductReference": "Container caasp/v4/nginx-ingress-controller:beta1",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libldap-2_4-2-2.4.41-18.68.1",
         "RelatesToProductReference": "Container suse/sles12sp4:latest",
         "RelationType": "Default Component Of"
       },
@@ -299,23 +304,43 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-client-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-doc-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-ppolicy-check-password-1.2-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "libldap-2_4-2-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -325,17 +350,7 @@
       },
       {
         "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-client-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -345,17 +360,7 @@
       },
       {
         "ProductReference": "openldap2-doc-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-doc-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-ppolicy-check-password-1.2-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -369,18 +374,8 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libldap-2_4-2-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -389,18 +384,8 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "openldap2-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -409,16 +394,36 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "openldap2-client-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "openldap2-doc-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libldap-2_4-2-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-client-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "openldap2-doc-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
         "RelationType": "Default Component Of"
@@ -429,13 +434,38 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libldap-2_4-2-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-LTSS",
+        "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
+        "ProductReference": "openldap2-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-client-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-doc-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-ppolicy-check-password-1.2-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libldap-2_4-2-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -445,17 +475,7 @@
       },
       {
         "ProductReference": "openldap2-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -465,27 +485,12 @@
       },
       {
         "ProductReference": "openldap2-client-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-client-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "openldap2-doc-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-doc-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-ppolicy-check-password-1.2-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -495,6 +500,36 @@
       },
       {
         "ProductReference": "libldap-2_4-2-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-client-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-doc-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-ppolicy-check-password-1.2-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-BCL",
         "RelationType": "Default Component Of"
       },
@@ -505,17 +540,7 @@
       },
       {
         "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -525,17 +550,7 @@
       },
       {
         "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-client-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -545,17 +560,7 @@
       },
       {
         "ProductReference": "openldap2-doc-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-doc-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-ppolicy-check-password-1.2-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -569,13 +574,38 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libldap-2_4-2-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
+        "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
+        "ProductReference": "openldap2-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-client-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-doc-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-ppolicy-check-password-1.2-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libldap-2_4-2-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -585,17 +615,7 @@
       },
       {
         "ProductReference": "openldap2-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -605,27 +625,12 @@
       },
       {
         "ProductReference": "openldap2-client-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-client-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "openldap2-doc-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-doc-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-ppolicy-check-password-1.2-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -635,6 +640,36 @@
       },
       {
         "ProductReference": "libldap-2_4-2-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-client-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-doc-2.4.41-18.68.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-ppolicy-check-password-1.2-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
         "RelationType": "Default Component Of"
       },
@@ -645,17 +680,7 @@
       },
       {
         "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libldap-2_4-2-32bit-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
@@ -665,17 +690,7 @@
       },
       {
         "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-back-meta-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-client-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
@@ -685,17 +700,7 @@
       },
       {
         "ProductReference": "openldap2-doc-2.4.41-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-doc-2.4.41-18.68.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openldap2-ppolicy-check-password-1.2-18.68.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
@@ -778,6 +783,7 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Container caasp/v4/nginx-ingress-controller:beta1:libldap-2_4-2-2.4.41-18.68.1",
             "Container suse/sles12sp4:latest:libldap-2_4-2-2.4.41-18.68.1",
             "Container suse/sles12sp5:latest:libldap-2_4-2-2.4.41-18.68.1",
             "HPE Helion Openstack 8:libldap-2_4-2-2.4.41-18.68.1",

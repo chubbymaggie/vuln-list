@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2019:0898-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2019-04-08T09:08:59Z",
-    "CurrentReleaseDate": "2019-04-08T09:08:59Z",
+    "InitialReleaseDate": "2019-04-08T09:08:57Z",
+    "CurrentReleaseDate": "2019-04-08T09:08:57Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2019-04-08T09:08:59Z",
+        "Date": "2019-04-08T09:08:57Z",
         "Description": "current"
       }
     ]
@@ -64,33 +64,38 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "bash-doc-4.2-83.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libreadline6-6.2-83.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libreadline6-32bit-6.2-83.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "readline-doc-6.2-83.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "bash-4.2-83.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "bash-doc-4.2-83.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "bash-doc-4.2-83.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libreadline6-6.2-83.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libreadline6-6.2-83.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libreadline6-32bit-6.2-83.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -100,11 +105,6 @@
       },
       {
         "ProductReference": "readline-doc-6.2-83.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "readline-doc-6.2-83.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12-LTSS",
         "RelationType": "Default Component Of"
       },
@@ -114,23 +114,33 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "bash-doc-4.2-83.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libreadline6-6.2-83.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libreadline6-32bit-6.2-83.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "readline-doc-6.2-83.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "bash-4.2-83.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "bash-doc-4.2-83.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "bash-doc-4.2-83.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libreadline6-6.2-83.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -140,17 +150,7 @@
       },
       {
         "ProductReference": "libreadline6-32bit-6.2-83.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libreadline6-32bit-6.2-83.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "readline-doc-6.2-83.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {

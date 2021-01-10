@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2019:0645-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2019-03-19T14:33:07Z",
-    "CurrentReleaseDate": "2019-03-19T14:33:07Z",
+    "InitialReleaseDate": "2019-03-19T14:33:06Z",
+    "CurrentReleaseDate": "2019-03-19T14:33:06Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2019-03-19T14:33:07Z",
+        "Date": "2019-03-19T14:33:06Z",
         "Description": "current"
       }
     ]
@@ -39,23 +39,23 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "kgraft-patch-3_12_61-52_125-xen-12-2.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kgraft-patch-SLE12_Update_33-12-2.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "kgraft-patch-3_12_61-52_125-default-12-2.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "kgraft-patch-3_12_61-52_125-xen-12-2.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kgraft-patch-3_12_61-52_125-xen-12-2.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kgraft-patch-SLE12_Update_33-12-2.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
         "RelationType": "Default Component Of"
       },
       {

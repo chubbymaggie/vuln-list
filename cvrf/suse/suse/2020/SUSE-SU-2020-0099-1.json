@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2020:0099-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2020-01-14T14:17:09Z",
-    "CurrentReleaseDate": "2020-01-14T14:17:09Z",
+    "InitialReleaseDate": "2020-01-14T14:17:08Z",
+    "CurrentReleaseDate": "2020-01-14T14:17:08Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2020-01-14T14:17:09Z",
+        "Date": "2020-01-14T14:17:08Z",
         "Description": "current"
       }
     ]
@@ -84,13 +84,18 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libopenssl1_1-1.1.1d-2.20.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
+        "ProductReference": "libopenssl1_1-32bit-1.1.1d-2.20.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libopenssl1_1-32bit-1.1.1d-2.20.1",
+        "ProductReference": "openssl-1_1-1.1.1d-2.20.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libopenssl1_1-1.1.1d-2.20.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
@@ -100,16 +105,21 @@
       },
       {
         "ProductReference": "openssl-1_1-1.1.1d-2.20.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openssl-1_1-1.1.1d-2.20.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libopenssl1_1-1.1.1d-2.20.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libopenssl1_1-32bit-1.1.1d-2.20.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openssl-1_1-1.1.1d-2.20.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
         "RelationType": "Default Component Of"
       },
@@ -120,17 +130,7 @@
       },
       {
         "ProductReference": "libopenssl1_1-32bit-1.1.1d-2.20.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libopenssl1_1-32bit-1.1.1d-2.20.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openssl-1_1-1.1.1d-2.20.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
@@ -331,6 +331,10 @@
         {
           "URL": "https://bugzilla.suse.com/1150250",
           "Description": "SUSE Bug 1150250"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1153785",
+          "Description": "SUSE Bug 1153785"
         },
         {
           "URL": "https://bugzilla.suse.com/1154162",

@@ -69,23 +69,63 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "kernel-default-base-4.12.14-150.52.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-default-devel-4.12.14-150.52.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-devel-4.12.14-150.52.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-docs-4.12.14-150.52.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-macros-4.12.14-150.52.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-obs-build-4.12.14-150.52.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-source-4.12.14-150.52.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-syms-4.12.14-150.52.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-vanilla-4.12.14-150.52.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-vanilla-base-4.12.14-150.52.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "kernel-default-4.12.14-150.52.1",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "kernel-default-base-4.12.14-150.52.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-default-base-4.12.14-150.52.1",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-default-devel-4.12.14-150.52.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
         "RelationType": "Default Component Of"
       },
       {
@@ -95,17 +135,7 @@
       },
       {
         "ProductReference": "kernel-devel-4.12.14-150.52.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-devel-4.12.14-150.52.1",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-docs-4.12.14-150.52.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
         "RelationType": "Default Component Of"
       },
       {
@@ -115,17 +145,7 @@
       },
       {
         "ProductReference": "kernel-macros-4.12.14-150.52.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-macros-4.12.14-150.52.1",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-obs-build-4.12.14-150.52.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
         "RelationType": "Default Component Of"
       },
       {
@@ -135,17 +155,7 @@
       },
       {
         "ProductReference": "kernel-source-4.12.14-150.52.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-source-4.12.14-150.52.1",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-syms-4.12.14-150.52.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
         "RelationType": "Default Component Of"
       },
       {
@@ -155,17 +165,7 @@
       },
       {
         "ProductReference": "kernel-vanilla-4.12.14-150.52.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-vanilla-4.12.14-150.52.1",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-vanilla-base-4.12.14-150.52.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
         "RelationType": "Default Component Of"
       },
       {
@@ -674,7 +674,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -756,7 +756,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -838,7 +838,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -920,7 +920,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -1002,7 +1002,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -2584,7 +2584,7 @@
     },
     {
       "CVE": "CVE-2020-10720",
-      "Description": "** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.",
+      "Description": "A flaw was found in the Linux kernel's implementation of GRO in versions before 5.2. This flaw allows an attacker with local access to crash the system.",
       "Threats": [
         {
           "Type": "Impact",
@@ -4244,7 +4244,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -4326,7 +4326,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [

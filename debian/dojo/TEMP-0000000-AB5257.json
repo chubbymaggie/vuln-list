@@ -1,17 +1,9 @@
 {
   "releases": {
-    "bullseye": {
-      "fixed_version": "1.4.2+dfsg-1",
-      "repositories": {
-        "bullseye": "1.15.3+dfsg1-1"
-      },
-      "status": "resolved",
-      "urgency": "low"
-    },
     "buster": {
       "fixed_version": "1.4.2+dfsg-1",
       "repositories": {
-        "buster": "1.14.2+dfsg1-1+deb10u1"
+        "buster": "1.14.2+dfsg1-1+deb10u2"
       },
       "status": "resolved",
       "urgency": "low"

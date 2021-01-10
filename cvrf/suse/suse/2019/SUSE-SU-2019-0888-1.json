@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2019:0888-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2019-04-05T06:57:06Z",
-    "CurrentReleaseDate": "2019-04-05T06:57:06Z",
+    "InitialReleaseDate": "2019-04-05T06:57:04Z",
+    "CurrentReleaseDate": "2019-04-05T06:57:04Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2019-04-05T06:57:06Z",
+        "Date": "2019-04-05T06:57:04Z",
         "Description": "current"
       }
     ]
@@ -39,23 +39,38 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "apache2-doc-2.4.16-20.24.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-example-pages-2.4.16-20.24.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-prefork-2.4.16-20.24.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-utils-2.4.16-20.24.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "apache2-worker-2.4.16-20.24.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "apache2-2.4.16-20.24.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "apache2-doc-2.4.16-20.24.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "apache2-doc-2.4.16-20.24.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "apache2-example-pages-2.4.16-20.24.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -65,27 +80,12 @@
       },
       {
         "ProductReference": "apache2-prefork-2.4.16-20.24.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "apache2-prefork-2.4.16-20.24.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "apache2-utils-2.4.16-20.24.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "apache2-utils-2.4.16-20.24.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "apache2-worker-2.4.16-20.24.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {

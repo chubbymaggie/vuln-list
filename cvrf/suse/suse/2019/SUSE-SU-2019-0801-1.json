@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2019:0801-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2019-03-29T06:09:06Z",
-    "CurrentReleaseDate": "2019-03-29T06:09:06Z",
+    "InitialReleaseDate": "2019-03-29T06:09:04Z",
+    "CurrentReleaseDate": "2019-03-29T06:09:04Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2019-03-29T06:09:06Z",
+        "Date": "2019-03-29T06:09:04Z",
         "Description": "current"
       }
     ]
@@ -119,23 +119,48 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "kernel-default-base-4.4.176-94.88.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-default-devel-4.4.176-94.88.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-default-man-4.4.176-94.88.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-devel-4.4.176-94.88.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-macros-4.4.176-94.88.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-source-4.4.176-94.88.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-syms-4.4.176-94.88.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "kernel-default-4.4.176-94.88.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "kernel-default-base-4.4.176-94.88.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-default-base-4.4.176-94.88.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-default-devel-4.4.176-94.88.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
@@ -145,17 +170,7 @@
       },
       {
         "ProductReference": "kernel-default-man-4.4.176-94.88.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-default-man-4.4.176-94.88.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-devel-4.4.176-94.88.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
@@ -165,27 +180,12 @@
       },
       {
         "ProductReference": "kernel-macros-4.4.176-94.88.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-macros-4.4.176-94.88.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "kernel-source-4.4.176-94.88.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-source-4.4.176-94.88.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-syms-4.4.176-94.88.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {

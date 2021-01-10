@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2020:0093-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2020-01-14T10:06:03Z",
-    "CurrentReleaseDate": "2020-01-14T10:06:03Z",
+    "InitialReleaseDate": "2020-01-14T10:06:02Z",
+    "CurrentReleaseDate": "2020-01-14T10:06:02Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2020-01-14T10:06:03Z",
+        "Date": "2020-01-14T10:06:02Z",
         "Description": "current"
       }
     ]
@@ -39,23 +39,38 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "kernel-azure-base-4.12.14-16.7.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-azure-devel-4.12.14-16.7.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-devel-azure-4.12.14-16.7.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-source-azure-4.12.14-16.7.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-syms-azure-4.12.14-16.7.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "kernel-azure-4.12.14-16.7.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "kernel-azure-base-4.12.14-16.7.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-azure-base-4.12.14-16.7.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-azure-devel-4.12.14-16.7.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
@@ -65,27 +80,12 @@
       },
       {
         "ProductReference": "kernel-devel-azure-4.12.14-16.7.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-devel-azure-4.12.14-16.7.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "kernel-source-azure-4.12.14-16.7.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-source-azure-4.12.14-16.7.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP5",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "kernel-syms-azure-4.12.14-16.7.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
         "RelationType": "Default Component Of"
       },
       {
@@ -116,7 +116,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -156,7 +156,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -271,6 +271,10 @@
         {
           "URL": "https://bugzilla.suse.com/1135967",
           "Description": "SUSE Bug 1135967"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1173663",
+          "Description": "SUSE Bug 1173663"
         }
       ],
       "ProductStatuses": [
@@ -344,7 +348,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -396,7 +400,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -495,6 +499,14 @@
         {
           "URL": "https://bugzilla.suse.com/1157158",
           "Description": "SUSE Bug 1157158"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1173100",
+          "Description": "SUSE Bug 1173100"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1173660",
+          "Description": "SUSE Bug 1173660"
         }
       ],
       "ProductStatuses": [
@@ -524,7 +536,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "critical"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -535,6 +547,10 @@
         {
           "URL": "https://bugzilla.suse.com/1157042",
           "Description": "SUSE Bug 1157042"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1173661",
+          "Description": "SUSE Bug 1173661"
         }
       ],
       "ProductStatuses": [
@@ -564,7 +580,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -604,7 +620,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -644,7 +660,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -696,7 +712,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -736,7 +752,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -776,7 +792,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -816,7 +832,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -856,7 +872,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -907,6 +923,10 @@
         {
           "URL": "https://bugzilla.suse.com/1152107",
           "Description": "SUSE Bug 1152107"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1173659",
+          "Description": "SUSE Bug 1173659"
         }
       ],
       "ProductStatuses": [
@@ -936,7 +956,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -976,7 +996,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1016,7 +1036,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1067,6 +1087,10 @@
         {
           "URL": "https://bugzilla.suse.com/1153158",
           "Description": "SUSE Bug 1153158"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1153161",
+          "Description": "SUSE Bug 1153161"
         }
       ],
       "ProductStatuses": [
@@ -1096,7 +1120,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1136,7 +1160,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1191,6 +1215,10 @@
         {
           "URL": "https://bugzilla.suse.com/1155897",
           "Description": "SUSE Bug 1155897"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1173868",
+          "Description": "SUSE Bug 1173868"
         }
       ],
       "ProductStatuses": [
@@ -1220,7 +1248,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1260,7 +1288,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1300,7 +1328,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1340,7 +1368,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1380,7 +1408,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1420,7 +1448,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1500,7 +1528,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1540,7 +1568,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1584,7 +1612,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1624,7 +1652,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1704,7 +1732,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1755,6 +1783,10 @@
         {
           "URL": "https://bugzilla.suse.com/1157191",
           "Description": "SUSE Bug 1157191"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1173961",
+          "Description": "SUSE Bug 1173961"
         }
       ],
       "ProductStatuses": [
@@ -1784,7 +1816,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1824,7 +1856,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1864,7 +1896,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1904,7 +1936,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1944,7 +1976,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -1995,6 +2027,10 @@
         {
           "URL": "https://bugzilla.suse.com/1157162",
           "Description": "SUSE Bug 1157162"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1173958",
+          "Description": "SUSE Bug 1173958"
         }
       ],
       "ProductStatuses": [
@@ -2024,7 +2060,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2064,7 +2100,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2104,7 +2140,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2144,7 +2180,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2184,7 +2220,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2224,7 +2260,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2264,7 +2300,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2344,7 +2380,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2380,11 +2416,11 @@
     },
     {
       "CVE": "CVE-2019-19338",
-      "Description": "** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.",
+      "Description": "A flaw was found in the fix for CVE-2019-11135, in the Linux upstream kernel versions before 5.5 where, the way Intel CPUs handle speculative execution of instructions when a TSX Asynchronous Abort (TAA) error occurs. When a guest is running on a host CPU affected by the TAA flaw (TAA_NO=0), but is not affected by the MDS issue (MDS_NO=1), the guest was to clear the affected buffers by using a VERW instruction mechanism. But when the MDS_NO=1 bit was exported to the guests, the guests did not use the VERW mechanism to clear the affected buffers. This issue affects guests running on Cascade Lake CPUs and requires that host has 'TSX' enabled. Confidentiality of data is the highest threat associated with this vulnerability.",
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2435,6 +2471,10 @@
         {
           "URL": "https://bugzilla.suse.com/1158819",
           "Description": "SUSE Bug 1158819"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1173869",
+          "Description": "SUSE Bug 1173869"
         }
       ],
       "ProductStatuses": [
@@ -2464,7 +2504,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2512,7 +2552,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2560,7 +2600,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2608,7 +2648,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2656,7 +2696,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2704,7 +2744,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2752,7 +2792,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2796,7 +2836,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2844,7 +2884,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2896,7 +2936,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2948,7 +2988,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -2992,7 +3032,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -3040,7 +3080,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -3088,7 +3128,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -3136,7 +3176,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -3184,7 +3224,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -3224,7 +3264,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -3355,6 +3395,10 @@
         {
           "URL": "https://bugzilla.suse.com/1159909",
           "Description": "SUSE Bug 1159909"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1159914",
+          "Description": "SUSE Bug 1159914"
         }
       ],
       "ProductStatuses": [
@@ -3424,7 +3468,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [
@@ -3464,7 +3508,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Severity": "important"
         }
       ],
       "References": [

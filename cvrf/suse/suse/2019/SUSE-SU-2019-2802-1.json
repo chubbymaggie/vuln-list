@@ -170,51 +170,6 @@
       },
       {
         "ProductReference": "libpython3_6m1_0-3.6.9-3.39.1",
-        "RelatesToProductReference": "Container caasp/v5/389-ds:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-3.6.9-3.39.1",
-        "RelatesToProductReference": "Container caasp/v5/389-ds:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-base-3.6.9-3.39.1",
-        "RelatesToProductReference": "Container caasp/v5/389-ds:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libpython3_6m1_0-3.6.9-3.39.1",
-        "RelatesToProductReference": "Container caasp/v5/k8s-sidecar:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-3.6.9-3.39.1",
-        "RelatesToProductReference": "Container caasp/v5/k8s-sidecar:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-base-3.6.9-3.39.1",
-        "RelatesToProductReference": "Container caasp/v5/k8s-sidecar:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libpython3_6m1_0-3.6.9-3.39.1",
-        "RelatesToProductReference": "Container caasp/v5/kube-controller-manager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-3.6.9-3.39.1",
-        "RelatesToProductReference": "Container caasp/v5/kube-controller-manager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "python3-base-3.6.9-3.39.1",
-        "RelatesToProductReference": "Container caasp/v5/kube-controller-manager:beta",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libpython3_6m1_0-3.6.9-3.39.1",
         "RelatesToProductReference": "Image SLES15-EC2-CHOST-HVM-BYOS",
         "RelationType": "Default Component Of"
       },
@@ -380,47 +335,137 @@
       },
       {
         "ProductReference": "libpython3_6m1_0-3.6.9-3.39.1",
-        "RelatesToProductReference": "Image caasp-389-ds-image",
+        "RelatesToProductReference": "Image caasp4/caasp-389-ds-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "python3-3.6.9-3.39.1",
-        "RelatesToProductReference": "Image caasp-389-ds-image",
+        "RelatesToProductReference": "Image caasp4/caasp-389-ds-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "python3-base-3.6.9-3.39.1",
-        "RelatesToProductReference": "Image caasp-389-ds-image",
+        "RelatesToProductReference": "Image caasp4/caasp-389-ds-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libpython3_6m1_0-3.6.9-3.39.1",
-        "RelatesToProductReference": "Image caasp-hyperkube-image",
+        "RelatesToProductReference": "Image caasp4/caasp-hyperkube-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "python3-3.6.9-3.39.1",
-        "RelatesToProductReference": "Image caasp-hyperkube-image",
+        "RelatesToProductReference": "Image caasp4/caasp-hyperkube-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "python3-base-3.6.9-3.39.1",
-        "RelatesToProductReference": "Image caasp-hyperkube-image",
+        "RelatesToProductReference": "Image caasp4/caasp-hyperkube-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libpython3_6m1_0-3.6.9-3.39.1",
-        "RelatesToProductReference": "Image caasp-k8s-sidecar-image",
+        "RelatesToProductReference": "Image caasp4/caasp-k8s-sidecar-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "python3-3.6.9-3.39.1",
-        "RelatesToProductReference": "Image caasp-k8s-sidecar-image",
+        "RelatesToProductReference": "Image caasp4/caasp-k8s-sidecar-image",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "python3-base-3.6.9-3.39.1",
-        "RelatesToProductReference": "Image caasp-k8s-sidecar-image",
+        "RelatesToProductReference": "Image caasp4/caasp-k8s-sidecar-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libpython3_6m1_0-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-389-ds-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-389-ds-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-base-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-389-ds-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libpython3_6m1_0-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-base-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-base-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-base-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-base-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libpython3_6m1_0-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-pilot-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-pilot-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-base-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-pilot-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libpython3_6m1_0-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-proxyv2-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-proxyv2-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-base-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-istio-proxyv2-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libpython3_6m1_0-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-k8s-sidecar-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-k8s-sidecar-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-base-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-k8s-sidecar-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libpython3_6m1_0-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-controller-manager-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-controller-manager-image",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-base-3.6.9-3.39.1",
+        "RelatesToProductReference": "Image caasp45/caasp-kube-controller-manager-image",
         "RelationType": "Default Component Of"
       },
       {
@@ -660,15 +705,6 @@
             "Container caasp/v4/k8s-sidecar:0.1.75:libpython3_6m1_0-3.6.9-3.39.1",
             "Container caasp/v4/k8s-sidecar:0.1.75:python3-3.6.9-3.39.1",
             "Container caasp/v4/k8s-sidecar:0.1.75:python3-base-3.6.9-3.39.1",
-            "Container caasp/v5/389-ds:beta:libpython3_6m1_0-3.6.9-3.39.1",
-            "Container caasp/v5/389-ds:beta:python3-3.6.9-3.39.1",
-            "Container caasp/v5/389-ds:beta:python3-base-3.6.9-3.39.1",
-            "Container caasp/v5/k8s-sidecar:beta:libpython3_6m1_0-3.6.9-3.39.1",
-            "Container caasp/v5/k8s-sidecar:beta:python3-3.6.9-3.39.1",
-            "Container caasp/v5/k8s-sidecar:beta:python3-base-3.6.9-3.39.1",
-            "Container caasp/v5/kube-controller-manager:beta:libpython3_6m1_0-3.6.9-3.39.1",
-            "Container caasp/v5/kube-controller-manager:beta:python3-3.6.9-3.39.1",
-            "Container caasp/v5/kube-controller-manager:beta:python3-base-3.6.9-3.39.1",
             "Image SLES15-EC2-CHOST-HVM-BYOS:libpython3_6m1_0-3.6.9-3.39.1",
             "Image SLES15-EC2-CHOST-HVM-BYOS:python3-3.6.9-3.39.1",
             "Image SLES15-EC2-CHOST-HVM-BYOS:python3-base-3.6.9-3.39.1",
@@ -702,15 +738,33 @@
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:libpython3_6m1_0-3.6.9-3.39.1",
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:python3-3.6.9-3.39.1",
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:python3-base-3.6.9-3.39.1",
-            "Image caasp-389-ds-image:libpython3_6m1_0-3.6.9-3.39.1",
-            "Image caasp-389-ds-image:python3-3.6.9-3.39.1",
-            "Image caasp-389-ds-image:python3-base-3.6.9-3.39.1",
-            "Image caasp-hyperkube-image:libpython3_6m1_0-3.6.9-3.39.1",
-            "Image caasp-hyperkube-image:python3-3.6.9-3.39.1",
-            "Image caasp-hyperkube-image:python3-base-3.6.9-3.39.1",
-            "Image caasp-k8s-sidecar-image:libpython3_6m1_0-3.6.9-3.39.1",
-            "Image caasp-k8s-sidecar-image:python3-3.6.9-3.39.1",
-            "Image caasp-k8s-sidecar-image:python3-base-3.6.9-3.39.1",
+            "Image caasp4/caasp-389-ds-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp4/caasp-389-ds-image:python3-3.6.9-3.39.1",
+            "Image caasp4/caasp-389-ds-image:python3-base-3.6.9-3.39.1",
+            "Image caasp4/caasp-hyperkube-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp4/caasp-hyperkube-image:python3-3.6.9-3.39.1",
+            "Image caasp4/caasp-hyperkube-image:python3-base-3.6.9-3.39.1",
+            "Image caasp4/caasp-k8s-sidecar-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp4/caasp-k8s-sidecar-image:python3-3.6.9-3.39.1",
+            "Image caasp4/caasp-k8s-sidecar-image:python3-base-3.6.9-3.39.1",
+            "Image caasp45/caasp-389-ds-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp45/caasp-389-ds-image:python3-3.6.9-3.39.1",
+            "Image caasp45/caasp-389-ds-image:python3-base-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-base-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-base-image:python3-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-base-image:python3-base-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-pilot-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-pilot-image:python3-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-pilot-image:python3-base-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-proxyv2-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-proxyv2-image:python3-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-proxyv2-image:python3-base-3.6.9-3.39.1",
+            "Image caasp45/caasp-k8s-sidecar-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp45/caasp-k8s-sidecar-image:python3-3.6.9-3.39.1",
+            "Image caasp45/caasp-k8s-sidecar-image:python3-base-3.6.9-3.39.1",
+            "Image caasp45/caasp-kube-controller-manager-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp45/caasp-kube-controller-manager-image:python3-3.6.9-3.39.1",
+            "Image caasp45/caasp-kube-controller-manager-image:python3-base-3.6.9-3.39.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:libpython3_6m1_0-3.6.9-3.39.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:python3-3.6.9-3.39.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:python3-base-3.6.9-3.39.1",
@@ -800,15 +854,6 @@
             "Container caasp/v4/k8s-sidecar:0.1.75:libpython3_6m1_0-3.6.9-3.39.1",
             "Container caasp/v4/k8s-sidecar:0.1.75:python3-3.6.9-3.39.1",
             "Container caasp/v4/k8s-sidecar:0.1.75:python3-base-3.6.9-3.39.1",
-            "Container caasp/v5/389-ds:beta:libpython3_6m1_0-3.6.9-3.39.1",
-            "Container caasp/v5/389-ds:beta:python3-3.6.9-3.39.1",
-            "Container caasp/v5/389-ds:beta:python3-base-3.6.9-3.39.1",
-            "Container caasp/v5/k8s-sidecar:beta:libpython3_6m1_0-3.6.9-3.39.1",
-            "Container caasp/v5/k8s-sidecar:beta:python3-3.6.9-3.39.1",
-            "Container caasp/v5/k8s-sidecar:beta:python3-base-3.6.9-3.39.1",
-            "Container caasp/v5/kube-controller-manager:beta:libpython3_6m1_0-3.6.9-3.39.1",
-            "Container caasp/v5/kube-controller-manager:beta:python3-3.6.9-3.39.1",
-            "Container caasp/v5/kube-controller-manager:beta:python3-base-3.6.9-3.39.1",
             "Image SLES15-EC2-CHOST-HVM-BYOS:libpython3_6m1_0-3.6.9-3.39.1",
             "Image SLES15-EC2-CHOST-HVM-BYOS:python3-3.6.9-3.39.1",
             "Image SLES15-EC2-CHOST-HVM-BYOS:python3-base-3.6.9-3.39.1",
@@ -842,15 +887,33 @@
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:libpython3_6m1_0-3.6.9-3.39.1",
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:python3-3.6.9-3.39.1",
             "Image SLES15-SP2-CHOST-BYOS-OpenStack:python3-base-3.6.9-3.39.1",
-            "Image caasp-389-ds-image:libpython3_6m1_0-3.6.9-3.39.1",
-            "Image caasp-389-ds-image:python3-3.6.9-3.39.1",
-            "Image caasp-389-ds-image:python3-base-3.6.9-3.39.1",
-            "Image caasp-hyperkube-image:libpython3_6m1_0-3.6.9-3.39.1",
-            "Image caasp-hyperkube-image:python3-3.6.9-3.39.1",
-            "Image caasp-hyperkube-image:python3-base-3.6.9-3.39.1",
-            "Image caasp-k8s-sidecar-image:libpython3_6m1_0-3.6.9-3.39.1",
-            "Image caasp-k8s-sidecar-image:python3-3.6.9-3.39.1",
-            "Image caasp-k8s-sidecar-image:python3-base-3.6.9-3.39.1",
+            "Image caasp4/caasp-389-ds-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp4/caasp-389-ds-image:python3-3.6.9-3.39.1",
+            "Image caasp4/caasp-389-ds-image:python3-base-3.6.9-3.39.1",
+            "Image caasp4/caasp-hyperkube-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp4/caasp-hyperkube-image:python3-3.6.9-3.39.1",
+            "Image caasp4/caasp-hyperkube-image:python3-base-3.6.9-3.39.1",
+            "Image caasp4/caasp-k8s-sidecar-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp4/caasp-k8s-sidecar-image:python3-3.6.9-3.39.1",
+            "Image caasp4/caasp-k8s-sidecar-image:python3-base-3.6.9-3.39.1",
+            "Image caasp45/caasp-389-ds-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp45/caasp-389-ds-image:python3-3.6.9-3.39.1",
+            "Image caasp45/caasp-389-ds-image:python3-base-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-base-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-base-image:python3-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-base-image:python3-base-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-pilot-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-pilot-image:python3-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-pilot-image:python3-base-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-proxyv2-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-proxyv2-image:python3-3.6.9-3.39.1",
+            "Image caasp45/caasp-istio-proxyv2-image:python3-base-3.6.9-3.39.1",
+            "Image caasp45/caasp-k8s-sidecar-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp45/caasp-k8s-sidecar-image:python3-3.6.9-3.39.1",
+            "Image caasp45/caasp-k8s-sidecar-image:python3-base-3.6.9-3.39.1",
+            "Image caasp45/caasp-kube-controller-manager-image:libpython3_6m1_0-3.6.9-3.39.1",
+            "Image caasp45/caasp-kube-controller-manager-image:python3-3.6.9-3.39.1",
+            "Image caasp45/caasp-kube-controller-manager-image:python3-base-3.6.9-3.39.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:libpython3_6m1_0-3.6.9-3.39.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:python3-3.6.9-3.39.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP1:python3-base-3.6.9-3.39.1",

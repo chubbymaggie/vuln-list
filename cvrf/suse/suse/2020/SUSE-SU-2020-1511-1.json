@@ -59,33 +59,33 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "java-11-openjdk-demo-11.0.7.0-3.42.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-11-openjdk-devel-11.0.7.0-3.42.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-11-openjdk-headless-11.0.7.0-3.42.4",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "java-11-openjdk-11.0.7.0-3.42.4",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "java-11-openjdk-demo-11.0.7.0-3.42.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "java-11-openjdk-demo-11.0.7.0-3.42.4",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "java-11-openjdk-devel-11.0.7.0-3.42.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "java-11-openjdk-devel-11.0.7.0-3.42.4",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "java-11-openjdk-headless-11.0.7.0-3.42.4",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
         "RelationType": "Default Component Of"
       },
       {
@@ -260,7 +260,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -312,7 +312,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -508,7 +508,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -560,7 +560,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -612,7 +612,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -664,7 +664,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -764,7 +764,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [

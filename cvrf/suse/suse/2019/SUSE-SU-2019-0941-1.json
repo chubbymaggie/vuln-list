@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2019:0941-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2019-04-12T13:58:07Z",
-    "CurrentReleaseDate": "2019-04-12T13:58:07Z",
+    "InitialReleaseDate": "2019-04-12T13:58:06Z",
+    "CurrentReleaseDate": "2019-04-12T13:58:06Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2019-04-12T13:58:07Z",
+        "Date": "2019-04-12T13:58:06Z",
         "Description": "current"
       }
     ]
@@ -59,13 +59,23 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "openssh-6.6p1-54.32.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12-LTSS",
+        "ProductReference": "openssh-askpass-gnome-6.6p1-54.32.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "openssh-askpass-gnome-6.6p1-54.32.1",
+        "ProductReference": "openssh-fips-6.6p1-54.32.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openssh-helpers-6.6p1-54.32.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openssh-6.6p1-54.32.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -75,17 +85,7 @@
       },
       {
         "ProductReference": "openssh-fips-6.6p1-54.32.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openssh-fips-6.6p1-54.32.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openssh-helpers-6.6p1-54.32.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -95,6 +95,21 @@
       },
       {
         "ProductReference": "openssh-6.6p1-54.32.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openssh-askpass-gnome-6.6p1-54.32.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openssh-fips-6.6p1-54.32.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openssh-helpers-6.6p1-54.32.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
@@ -105,27 +120,12 @@
       },
       {
         "ProductReference": "openssh-askpass-gnome-6.6p1-54.32.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openssh-askpass-gnome-6.6p1-54.32.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "openssh-fips-6.6p1-54.32.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openssh-fips-6.6p1-54.32.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openssh-helpers-6.6p1-54.32.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {

@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2020:0516-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2020-02-27T13:38:33Z",
-    "CurrentReleaseDate": "2020-02-27T13:38:33Z",
+    "InitialReleaseDate": "2020-02-27T13:38:30Z",
+    "CurrentReleaseDate": "2020-02-27T13:38:30Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2020-02-27T13:38:33Z",
+        "Date": "2020-02-27T13:38:30Z",
         "Description": "current"
       }
     ]
@@ -69,23 +69,38 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libopenssl1_0_0-32bit-1.0.1i-54.32.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libopenssl1_0_0-hmac-1.0.1i-54.32.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libopenssl1_0_0-hmac-32bit-1.0.1i-54.32.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openssl-1.0.1i-54.32.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openssl-doc-1.0.1i-54.32.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "libopenssl1_0_0-1.0.1i-54.32.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libopenssl1_0_0-32bit-1.0.1i-54.32.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libopenssl1_0_0-32bit-1.0.1i-54.32.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libopenssl1_0_0-hmac-1.0.1i-54.32.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -95,27 +110,12 @@
       },
       {
         "ProductReference": "libopenssl1_0_0-hmac-32bit-1.0.1i-54.32.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libopenssl1_0_0-hmac-32bit-1.0.1i-54.32.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "openssl-1.0.1i-54.32.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openssl-1.0.1i-54.32.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "openssl-doc-1.0.1i-54.32.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {

@@ -114,23 +114,38 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libwebkit2gtk-4_0-37-2.28.2-3.54.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebkit2gtk3-lang-2.28.2-3.54.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "webkit2gtk-4_0-injected-bundles-2.28.2-3.54.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "webkit2gtk3-2.28.2-3.54.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "webkit2gtk3-devel-2.28.2-3.54.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "libjavascriptcoregtk-4_0-18-2.28.2-3.54.1",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libwebkit2gtk-4_0-37-2.28.2-3.54.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libwebkit2gtk-4_0-37-2.28.2-3.54.1",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libwebkit2gtk3-lang-2.28.2-3.54.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
         "RelationType": "Default Component Of"
       },
       {
@@ -140,27 +155,12 @@
       },
       {
         "ProductReference": "webkit2gtk-4_0-injected-bundles-2.28.2-3.54.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "webkit2gtk-4_0-injected-bundles-2.28.2-3.54.1",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "webkit2gtk3-2.28.2-3.54.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "webkit2gtk3-2.28.2-3.54.1",
         "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "webkit2gtk3-devel-2.28.2-3.54.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise High Performance Computing 15-ESPOS",
         "RelationType": "Default Component Of"
       },
       {
@@ -247,7 +247,7 @@
   "Vulnerabilities": [
     {
       "CVE": "CVE-2020-3899",
-      "Description": "A memory consumption issue was addressed with improved memory handling. This issue is fixed in iOS 13.4 and iPadOS 13.4, tvOS 13.4, Safari 13.1, iTunes for Windows 12.10.5, iCloud for Windows 10.9.3, iCloud for Windows 7.18. A remote attacker may be able to cause arbitrary code execution.",
+      "Description": "A memory consumption issue was addressed with improved memory handling. This issue is fixed in iOS 13.4 and iPadOS 13.4, tvOS 13.4, watchOS 6.2, Safari 13.1, iTunes for Windows 12.10.5, iCloud for Windows 10.9.3, iCloud for Windows 7.18. A remote attacker may be able to cause arbitrary code execution.",
       "Threats": [
         {
           "Type": "Impact",

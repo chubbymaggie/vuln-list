@@ -4,12 +4,12 @@
     "ID": "SUSE-SU-2019:0913-1",
     "Status": "Final",
     "Version": "1",
-    "InitialReleaseDate": "2019-04-09T09:19:10Z",
-    "CurrentReleaseDate": "2019-04-09T09:19:10Z",
+    "InitialReleaseDate": "2019-04-09T09:19:07Z",
+    "CurrentReleaseDate": "2019-04-09T09:19:07Z",
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2019-04-09T09:19:10Z",
+        "Date": "2019-04-09T09:19:07Z",
         "Description": "current"
       }
     ]
@@ -144,18 +144,8 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libsqlite3-0-3.8.10.2-9.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "libsqlite3-0-32bit-3.8.10.2-9.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP1-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libsqlite3-0-32bit-3.8.10.2-9.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -164,6 +154,16 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libsqlite3-0-3.8.10.2-9.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsqlite3-0-32bit-3.8.10.2-9.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "sqlite3-3.8.10.2-9.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP1-LTSS",
         "RelationType": "Default Component Of"
@@ -174,18 +174,8 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libsqlite3-0-3.8.10.2-9.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "libsqlite3-0-32bit-3.8.10.2-9.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-LTSS",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libsqlite3-0-32bit-3.8.10.2-9.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
         "RelationType": "Default Component Of"
       },
       {
@@ -194,6 +184,16 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libsqlite3-0-3.8.10.2-9.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsqlite3-0-32bit-3.8.10.2-9.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "sqlite3-3.8.10.2-9.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-LTSS",
         "RelationType": "Default Component Of"
@@ -204,18 +204,8 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libsqlite3-0-3.8.10.2-9.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "libsqlite3-0-32bit-3.8.10.2-9.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP2-BCL",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libsqlite3-0-32bit-3.8.10.2-9.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
         "RelationType": "Default Component Of"
       },
       {
@@ -224,6 +214,16 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "libsqlite3-0-3.8.10.2-9.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsqlite3-0-32bit-3.8.10.2-9.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "sqlite3-3.8.10.2-9.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP2-BCL",
         "RelationType": "Default Component Of"
@@ -234,13 +234,18 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libsqlite3-0-3.8.10.2-9.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
+        "ProductReference": "libsqlite3-0-32bit-3.8.10.2-9.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "libsqlite3-0-32bit-3.8.10.2-9.3.1",
+        "ProductReference": "sqlite3-3.8.10.2-9.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsqlite3-0-3.8.10.2-9.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
@@ -250,16 +255,21 @@
       },
       {
         "ProductReference": "sqlite3-3.8.10.2-9.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP3",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "sqlite3-3.8.10.2-9.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP3",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "libsqlite3-0-3.8.10.2-9.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libsqlite3-0-32bit-3.8.10.2-9.3.1",
+        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "sqlite3-3.8.10.2-9.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
@@ -270,17 +280,7 @@
       },
       {
         "ProductReference": "libsqlite3-0-32bit-3.8.10.2-9.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "libsqlite3-0-32bit-3.8.10.2-9.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server for SAP Applications 12 SP4",
-        "RelationType": "Default Component Of"
-      },
-      {
-        "ProductReference": "sqlite3-3.8.10.2-9.3.1",
-        "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP4",
         "RelationType": "Default Component Of"
       },
       {
